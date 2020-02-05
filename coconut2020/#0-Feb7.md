@@ -15,6 +15,7 @@ Location: Vietnam
 
 ### Rust Asia
 
+### Programming a bot
 
 
 ## Efforts
