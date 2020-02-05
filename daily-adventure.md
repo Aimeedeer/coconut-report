@@ -8,3 +8,4 @@
 ## On the List
 
 - Live anywhere
+- Rust Asia Membership or Foundation
