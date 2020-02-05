@@ -1,5 +1,7 @@
 Coconut Report #0 - Feb 7, 2020
+
 Editor: Aimee
+
 Location: Vietnam
 
 ## Delivery
@@ -14,21 +16,22 @@ Location: Vietnam
 ### Rust Asia
 
 
+
 ## Efforts
 - Building ribbot as a way of learning Rust.
 - Use todolist + RescueTime to help with my productivity.
 
 
-### Meetings (UTC+7)
+## Meetings (UTC+7)
 
-#### Tuesday with Mitchell in Data Insight
+### Tuesday with Mitchell in Data Insight
 - Transfer to Jane & Matt to collaborate.
 
-#### Tuesday With Jane, Matt, DC Wu about CKB community sync
+### Tuesday With Jane, Matt, DC Wu about CKB community sync
 - I've shared the idea of 1) building bots for CKB; 2) A community newsletter focuses on developers.
 - nCoV situation.
 
-#### Tuesday with Nervos team & community leaders
+### Tuesday with Nervos team & community leaders
 - New structure about Nervos foundation & Nervos original leaders.
 
 ## Thoughts
