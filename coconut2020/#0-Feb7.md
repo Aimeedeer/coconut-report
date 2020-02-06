@@ -51,7 +51,3 @@ Location: Vietnam
 - Open source my reports to start building an open-source community
 - Rib Newsletter topic coverage
 - Rib Newsletter needs contribution guild -- from Brian
-
-
-## New ideas
-- Report Rust activities & contribution and adoption in China to westerns

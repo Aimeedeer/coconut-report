@@ -9,3 +9,4 @@
 
 - Live anywhere
 - Rust Asia Membership or Foundation
+- Report Rust/blockchain dev activities & contribution and adoption in China to westerns
