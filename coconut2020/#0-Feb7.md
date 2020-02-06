@@ -11,9 +11,12 @@ Location: Vietnam
 
 
 ### RiB Newsletter
-
+- Edit and publish #8 on Feb 5
+- Add new projects to awesome-blockchain-rust
+- Change the link color on site page
 
 ### Rust Asia
+
 
 ### Programming a bot
 
