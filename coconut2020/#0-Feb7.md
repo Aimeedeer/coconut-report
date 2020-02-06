@@ -6,42 +6,52 @@ Location: Vietnam
 
 ## Delivery
 
-### CKB Dev Community
-- List China community networks I've already connected.
+#### CKB Dev Community
+- List China community networks I've already connected
+- Content plan with topics
+- Dev pitch list building starts
+- Community experiment starts
 
 
-### RiB Newsletter
+#### RiB Newsletter
 - Edit and publish #8 on Feb 5
 - Add new projects to awesome-blockchain-rust
-- Change the link color on site page
-
-### Rust Asia
-
-
-### Programming a bot
+- Change the link colour on the site page
+- 10+ joined rib telegram group
 
 
-## Efforts
-- Building ribbot as a way of learning Rust.
-- Use todolist + RescueTime to help with my productivity.
+#### Rust Asia
+- 0
+
+
+#### Programming a bot
+- bot0: progress at database connecting
+
+
+#### Efforts
+- Building a bot as a way of learning Rust programming
+- Use todolist + RescueTime to help with my productivity
+- Review blockchain developers' github
 
 
 ## Meetings (UTC+7)
 
-### Tuesday with Mitchell in Data Insight
-- Transfer to Jane & Matt to collaborate.
+#### Tuesday with Mitchell in Data Insight
+- Transfer to Jane & Matt to collaborate
 
-### Tuesday With Jane, Matt, DC Wu about CKB community sync
-- I've shared the idea of 1) building bots for CKB; 2) A community newsletter focuses on developers.
-- nCoV situation.
+#### Tuesday With Jane, Matt, DC Wu about CKB community sync
+- I've shared the idea of 1) building bots for CKB; 2) A community newsletter focuses on developers
+- nCoV situation
 
-### Tuesday with Nervos team & community leaders
-- New structure about Nervos foundation & Nervos original leaders.
+#### Tuesday with Nervos team & community leaders
+- The new structure about Nervos foundation & Nervos original leaders
+
 
 ## Thoughts
-- Open source my reports to start build an open source community.
-- Rib Newsletter cover "wasm" topic.
-- Rib Newsletter needs contribution guild -- from Brian.
+- Open source my reports to start building an open-source community
+- Rib Newsletter topic coverage
+- Rib Newsletter needs contribution guild -- from Brian
+
 
 ## New ideas
-- Report Rust activities & contribution and adoption in China to westerns.
+- Report Rust activities & contribution and adoption in China to westerns
