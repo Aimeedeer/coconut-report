@@ -1,6 +1,6 @@
 # Coconut ❤️ Report
 
-#### Aimee's whatever lovely report.
+#### Aimee's whatever lovely report
 
 I only do things I want to do. I love reading reports, and I want to write a brilliant report someday in 2020.
 
