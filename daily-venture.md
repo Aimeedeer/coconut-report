@@ -16,3 +16,4 @@
 - Rust Asia Membership or Foundation
 - Report Rust/blockchain dev activities & contribution and adoption in China to westerns
 - A privacy token project
+- A community driven project
