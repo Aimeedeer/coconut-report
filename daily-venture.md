@@ -1,8 +1,12 @@
 ## I love to try new things
 
-## Things I've tried
+## Done
+
 - SPA
-- Programming in Rust
+
+## Working in Progress
+
+- Programming in Rust, to build a bot army
 
 
 ## On the List
@@ -11,3 +15,4 @@
 - Tech writing
 - Rust Asia Membership or Foundation
 - Report Rust/blockchain dev activities & contribution and adoption in China to westerns
+- A privacy token project
