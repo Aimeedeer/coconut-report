@@ -1,6 +1,7 @@
 ## Posts Read
 
 
+
 #### RescueTime Newsletter
 
 Over the years, we’ve seen people have the most success with goals that have a few specific qualities:
