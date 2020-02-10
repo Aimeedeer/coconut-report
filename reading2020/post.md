@@ -1,6 +1,17 @@
-## Posts Read
+## Posts Collection
+
+#### Development
+
+- [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
 
 
+#### Online Community
+
+- [Ask HN: How do we stop the polarization/toxicicity filling the web?](https://news.ycombinator.com/item?id=22178292)
+- [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
+- [Effects of anonymity, invisibility, and lack of eye-contact on toxic
+online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
+- [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
 
 #### RescueTime Newsletter
 
