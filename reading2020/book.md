@@ -2,6 +2,7 @@ Books in 2020
 
 ## Want to Read
 
+#### [Permanent_Record_-_CN](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)
 
 ## Reading
 
@@ -16,6 +17,7 @@ Books in 2020
 #### 人的境况
 
 #### 血疫
+
 
 
 ## Finished
