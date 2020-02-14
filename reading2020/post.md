@@ -7,6 +7,7 @@
 
 #### Online Community
 
+- [Part II: Usenet — Let's Return to Public Spaces](https://october.substack.com/p/part-ii-usenet-a-genuinely-public)
 - [Ask HN: How do we stop the polarization/toxicicity filling the web?](https://news.ycombinator.com/item?id=22178292)
 - [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
 - [Effects of anonymity, invisibility, and lack of eye-contact on toxic
