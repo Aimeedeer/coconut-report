@@ -7,6 +7,7 @@
 
 #### Online Community
 
+- [Ethereum Hackathon Survival Guide](https://media.consensys.net/ethereum-hackathon-survival-guide-aea1d65ba006) -- Help me draft the guidelines for a hackathon.
 - [Part II: Usenet — Let's Return to Public Spaces](https://october.substack.com/p/part-ii-usenet-a-genuinely-public)
 - [Ask HN: How do we stop the polarization/toxicicity filling the web?](https://news.ycombinator.com/item?id=22178292)
 - [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
@@ -22,3 +23,8 @@ Over the years, we’ve seen people have the most success with goals that have a
 - Intention: Understand why you’re choosing that specific goal
 - Realistic: Is this something you can hit on a regular basis?
 - Doable: Start small and build off of your success
+
+#### Makers
+
+- [Aviv Eyal](https://avive.github.io/) -- A cool maker
+    - I love Spacemesh's site style: https://spacemesh.io/weekly-updates/
