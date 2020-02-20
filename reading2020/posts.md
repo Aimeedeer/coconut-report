@@ -14,7 +14,6 @@
 - [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
 - [Effects of anonymity, invisibility, and lack of eye-contact on toxic
 online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
-- [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
 
 #### About Reading
 
@@ -24,6 +23,14 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 
 - [Aviv Eyal](https://avive.github.io/) -- A cool maker
     - I love Spacemesh's site style: https://spacemesh.io/weekly-updates/
+
+#### Market
+
+- [Content isn't king](https://www.ben-evans.com/benedictevans/2017/7/13/content-isnt-king)
+
+#### Networks
+
+- [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
 
 #### Notes
 
