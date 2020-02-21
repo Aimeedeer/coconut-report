@@ -13,7 +13,7 @@
 - [Ask HN: How do we stop the polarization/toxicicity filling the web?](https://news.ycombinator.com/item?id=22178292)
 - [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
 - [Effects of anonymity, invisibility, and lack of eye-contact on toxic
-online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
+online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014) 
 
 #### About Reading
 
