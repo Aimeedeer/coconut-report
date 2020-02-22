@@ -13,7 +13,9 @@
 - [Ask HN: How do we stop the polarization/toxicicity filling the web?](https://news.ycombinator.com/item?id=22178292)
 - [Online disinhibition effect](https://en.wikipedia.org/wiki/Online_disinhibition_effect)
 - [Effects of anonymity, invisibility, and lack of eye-contact on toxic
-online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014) 
+online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
+- [Web3 foundation grants](https://medium.com/web3foundation/wrap-up-for-winter-with-our-wave-four-grant-recipients-52c27b831a6e): "The end of 2019 marks the end of the fourth quarter of the Web3 Foundation Grants Program. In the first year of the program we received almost 200 applications and awarded more than 60 grants."
+
 
 #### About Reading
 
