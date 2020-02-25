@@ -8,6 +8,7 @@
     - Thailand
     - Vietnam
     - Utah, US
+- Write a blog post with data support
 
 ## Working in Progress
 
