@@ -168,7 +168,6 @@ There are clear differences in the categorization of content. Nervos has a few g
 
 With the projects categorizing their content differently, it is hard to compare them. To make a simpler comparison, I added the same tags to each project's posts: culture, tech, status report, marketing. So the charts turn out to be like this:
 
-![](./graphic-assets/nervos-online-content.svg)
 ![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Nervos-online-content-with-my-tags.svg)
 ![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Parity-online-content-with-my-tags.png)
 
