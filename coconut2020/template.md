@@ -37,6 +37,7 @@ Timezone: UTC-7
 
 ## Next
 
+## Learning
 
 ## Thoughts
 
