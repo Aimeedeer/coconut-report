@@ -71,7 +71,7 @@ Here is some of the feedback I've heard from developers:
 
 - A Rust dev tried to understand CKB but failed, and he said it's hard.
 - A WASM dev also tried to read CKB documentation but didn't have growing interests to check back.
-- A senior Rust developer said he had read various CKB docs and never came away feeling like he understood the vision, or how it is implemented by the tech
+- A senior Rust developer said he had read various CKB docs and never came away feeling like he understood the vision, or how it is implemented by the tech.
 - A senior system programming developer, who planned to find a great startup to join in, paid much time to read CKB GitHub and then get a basic understanding. He finally decided not to join the team for different missions.
 - A senior blockchain developer is interested in technology discussion with CKB developers but has no interest in CKB project. Sam as some other blockchain developers I have talked to.
 
