@@ -150,7 +150,7 @@ Let’s take a break to see what others did. I list some community-oriented feat
 - Community-oriented structure and processes -- almost every initiative is designed for participation. Unpaid team members participate at the highest levels of the organization.
 - Documentation-oriented culture and processes (new features cannot be added without documentation)
 - Rust community has the [what's everyone working on this week](https://www.reddit.com/r/rust/comments/f541u0/whats_everyone_working_on_this_week_82020/) and yearly looking back & looking forward blogging call, which are the sense of ceremony in the community
-- There are several newsletters made by the community: [this week in Rust](https://this-week-in-rust.org/), [Awesome Rust](https://rust.libhunt.com/), [Read Rust](https://readrust.net/), the [The Embedded Working Group
+- There are several newsletters made by the community: [this week in Rust](https://this-week-in-rust.org/), [Awesome Rust](https://rust.libhunt.com/), [Read Rust](https://readrust.net/), [The Embedded Working Group
 ](https://rust-embedded.github.io/blog/), etc
 - Regional Rust conferences around the world made by contributors
 
