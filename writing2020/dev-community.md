@@ -181,41 +181,42 @@ Date for these charts is in a [Google Sheet](https://docs.google.com/spreadsheet
 There are many ways to build community. The stories we tell about our project shape developers' opinions. When we tell a good story consistently then people will remember.
 
 - **Useful and essential information for developers**
-        - Essential and must have documentation, each product should have an instruction book    
+  - Essential and must have documentation, each product should have an instruction book    
 
 - **Project mission**, inspiring and for public good
-        - Why Common Knowledge Base
-        - What's the value
-        - Backed up with stories
-        - Align with co-founders stories and their dreams        
+  - Why Common Knowledge Base
+  - What's the value
+  - Backed up with stories
+  - Align with co-founders stories and their dreams        
 
 - **Engineering mission**, to show the insights from the engineering team: why Nervos CKB is the future, and what the future looks like
-        - Software aspect, history of the internet, bitcoin stories, and other relative topics
-        - Decentralized world
-        - Distributed systems
-        - Engineering efforts stories
-        - The architecture of Nervos CKB
-        - The possibility it provides to the world as well as to the developers
-        - Stories that happened during CKB development    
+  - Software aspect, history of the internet, bitcoin stories, and other relative topics
+  - Decentralized world
+  - Distributed systems
+  - Engineering efforts stories
+  - The architecture of Nervos CKB
+  - The possibility it provides to the world as well as to the developers
+  - Stories that happened during CKB development    
 
 - **Engineering culture**, to attract and onboard new developers
-        - How developers work together
-        - Stories about CKB developers
-        - How the open source thoughts and efforts of building the open culture
-        - Efforts about encouraging contributions
-        - Developers’ sharing efforts: blog posts, talks, workshops
-            - The enjoyment of working for Nervos CKB -- remote, flexible, etc  
+  - How developers work together
+  - Stories about CKB developers
+  - How the open source thoughts and efforts of building the open culture
+  - Efforts about encouraging contributions
+  - Developers’ sharing efforts: blog posts, talks, workshops
+  - The enjoyment of working for Nervos CKB -- remote, flexible, etc  
+
 - **Tech awareness rising**, cool tech details that easy to understand by newcomers, which makes people remember
-        - Why CKB-P2P but not libp2p?
-        - Why RISC-V VM but not WASM VM?
-        - Build xx on CKB-VM series -- find cool projects to build on CKB-VM
-        - Cell model
-                - The design thinking
-                - Use cases proof
-        - Credit contributions and the storytelling -- align with the missions, for the better society
-        - Educational content and mentorship for the crypto tech community
-                - An example: [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8), the step by step mentorship help new developers to make an action without pressure.
-        - Inspiring movements -- creative hackathons, educational events and open sharing
+  - Why CKB-P2P but not libp2p?
+  - Why RISC-V VM but not WASM VM?
+  - Build xx on CKB-VM series -- find cool projects to build on CKB-VM
+  - Cell model
+    - The design thinking
+    - Use cases proof
+  - Credit contributions and the storytelling -- align with the missions, for the better society
+  - Educational content and mentorship for the crypto tech community
+    - An example: [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8), the step by step mentorship help new developers to make an action without pressure.
+  - Inspiring movements -- creative hackathons, educational events and open sharing
 
 We can tell these stories now. There are many more technical stories to tell that I don't know, and I think they are some of the most important. Developers follow developers.
 
