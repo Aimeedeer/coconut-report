@@ -1,7 +1,7 @@
-Thoughts on developer community building
+## **Thoughts on developer community building**
 
-Subtitle:
-The experience of building developer community for Nervos CKB
+
+*The experience of building developer community for Nervos CKB*
 
 
 This is a post about my experiences and observations building community for [Nervos CKB](https://www.nervos.org) over the past year. In it I recap efforts we have done on developer engagement, feedback from developers, my thoughts based on previous experience, communication, and observation of different developer communities. It does not make any recommendations, but I hope it encourages thought and discussion. It is mostly aimed at those in the Nervos CKB community, but maybe it can inspire others who are building developer communities as well.
