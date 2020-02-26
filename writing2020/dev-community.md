@@ -73,7 +73,7 @@ Here is some of the feedback I've heard from developers:
 - A WASM dev also tried to read CKB documentation but didn't have growing interests to check back.
 - A senior Rust developer said he had read various CKB docs and never came away feeling like he understood the vision, or how it is implemented by the tech.
 - A senior system programming developer, who planned to find a great startup to join in, paid much time to read CKB GitHub and then get a basic understanding. He finally decided not to join the team for different missions.
-- A senior blockchain developer is interested in technology discussion with CKB developers but has no interest in CKB project. Sam as some other blockchain developers I have talked to.
+- A senior blockchain developer is interested in technology discussion with CKB developers but has no interest in CKB project. Same as some other blockchain developers I have talked to.
 
 Most developers have a rapid visit and leave; they don't find enough interesting at CKB if they don't pay enough time to dive in its documentation. That feedback makes me think and to ask questions -- what are the real problems that we didn’t notice, any signs we missed?
 
