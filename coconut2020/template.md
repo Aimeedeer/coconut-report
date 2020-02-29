@@ -3,6 +3,7 @@ Coconut Report #3 - Feb 28, 2020
 Editor: Aimee
 
 Location: Utah, US
+
 Timezone: UTC-7
 
 ## TODO
