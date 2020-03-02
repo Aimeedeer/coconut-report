@@ -32,8 +32,9 @@ Timezone: UTC-7
 
 ## Meetings and Chat
 
-- #### Wednesday w/
-    - Sync
+#### Monday w/
+
+- Sync
 
 
 ## Next
