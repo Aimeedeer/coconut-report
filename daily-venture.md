@@ -2,6 +2,8 @@
 
 ## Done
 
+- Build a website in Hugo -- rustinblockchain.org
+- Build a website in Jekyll -- onckb.com
 - SPA
 - Taste fresh coconut juice from [the tree](https://www.instagram.com/p/B8lQxoiA6RQ)
 - Live anywhere
@@ -13,13 +15,10 @@
 ## Working in Progress
 
 - Programming in Rust, to build a bot army
-- Build a jekyll website from scratch -- Cocodate
 
 
-## On the List
+## On the List & ideas
 
 - Tech writing
-- Rust Asia Membership or Foundation
-- Report Rust/blockchain dev activities & contribution and adoption in China to westerns
-- A privacy token project
-- A community driven project
+- A project onchain
+
