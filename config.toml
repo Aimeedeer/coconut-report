@@ -2,7 +2,8 @@
 
 baseURL = 'https://aimeedeer.github.io'
 title = 'Coconut Report'
-theme = 'hugo-book'
+theme = 'book'
+publishDir = "../aimeedeer.github.io"
 
 # Book configuration
 disablePathToLower = true
