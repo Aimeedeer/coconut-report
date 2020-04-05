@@ -4,7 +4,9 @@
 
 I do things I want to do. I love reading reports, and I want to write a brilliant report someday in 2020.
 
-#### [coconut2020](./coconut2020) -> Weekly Report
+#### [coconut-weekly](./coconut-weekly) -> Weekly Report
+
+#### [coconut-monthly](./coconut-monthly) -> Monthly Report
 
 #### [reading2020](./reading2020) -> Reading Notes
 
