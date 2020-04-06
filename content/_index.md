@@ -1,6 +1,6 @@
 ---
-title: Introduction
-type: docs
+title: Coconut Report
+type: report
 ---
 
 
