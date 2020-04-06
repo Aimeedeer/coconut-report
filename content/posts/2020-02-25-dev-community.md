@@ -5,10 +5,10 @@ linktitle: Thoughts on developer community building
 menu:
   main:
     parent: posts
+title: Thoughts on developer community building
 weight: 10
 ---
 
-## **Thoughts on developer community building**
 
 *The experience of building developer community for Nervos CKB*
 
@@ -19,7 +19,7 @@ One on one conversations with my friends [Jane][jane-twitter], [Brian][brson-sit
 
 In the text below, “I” refers to myself, and “we” refers to Nervos marketing team and me. Opinions and perspectives in this post are my own, not those of the Nervos team.
 
-The source file [is on GitHub](todo), if you find incorrect information, please open an issue, or comment to this post directly. Thanks in advance.
+If you find incorrect information, please open an issue, or comment to this post directly. Thanks in advance.
 
 
 ## Brief recap of Nervos developer relations efforts
@@ -251,5 +251,5 @@ Keep moving, and keep advocating. CKB is cool. Let's all be cool.
 [driftluo-twitter]: https://twitter.com/driftluo
 [rib-site]: https://rustinblockchain.org/
 [nervos-ckb-github]: https://github.com/nervosnetwork/ckb
-[nervos-doc]: docs.nervos.org
+[nervos-doc]: https://docs.nervos.org
 [nervos-talk]: https://talk.nervos.org/

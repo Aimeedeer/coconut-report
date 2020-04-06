@@ -5,5 +5,5 @@ menu:
   after:
     name: report
     weight: 1
-title: Weekly Report
+title: Coconut Report
 ---
