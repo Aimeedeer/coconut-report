@@ -1,5 +1,14 @@
-## **Thoughts on developer community building**
+---
+author: "Aimee"
+date: 2020-02-25
+linktitle: Thoughts on developer community building
+menu:
+  main:
+    parent: posts
+weight: 10
+---
 
+## **Thoughts on developer community building**
 
 *The experience of building developer community for Nervos CKB*
 

@@ -17,37 +17,12 @@ enableGitInfo = true
 [markup.tableOfContents]
   startLevel = 1
 
-# Multi-lingual mode config
-# There are different options to translate files
-# See https://gohugo.io/content-management/multilingual/#translation-by-filename
-# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content'
-  weight = 1
-
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
-
-[languages.cn]
-  languageName = 'Chinese'
-  contentDir = 'content.cn'
-  weight = 3
-
 [menu]
 # [[menu.before]]
 [[menu.after]]
   name = "Github"
   url = "https://github.com/Aimeedeer/coconut-report"
   weight = 10
-
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
@@ -65,16 +40,16 @@ enableGitInfo = true
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to '*' to render all sections to menu
-  BookSection = 'docs'
+  BookSection = '*'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  BookRepo = 'https://github.com/Aimeedeer/coconut-report'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Path must point to 'content' directory of repo.
-  BookEditPath = 'edit/master/exampleSite/content'
+  BookEditPath = 'edit/master/content/'
 
   # Configure the date format used on the pages
   # - In git information
