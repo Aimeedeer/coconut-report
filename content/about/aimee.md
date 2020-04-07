@@ -1,9 +1,9 @@
 ---
-linktitle: About me
+linktitle: Aimee
 menu:
   main:
     parent: about
-title: About me
+title: Aimee
 ---
 
 ## Hello!
