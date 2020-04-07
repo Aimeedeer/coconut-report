@@ -168,8 +168,8 @@ Let’s take a break to see what others did. I list some community-oriented feat
 
 As an experiment, I searched blog posts from Nervos and Parity official channels, to see the differences in content. For this experiment, I used blog posts from January 2019 until February 2020.
 
-![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Nervos-online-content.svg)
-![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Parity-online-content.svg)
+![](/graphic-assets/Nervos-online-content.svg)
+![](/graphic-assets/Parity-online-content.svg)
 
 The two charts show the content with their official tags, and how they define their content as a way of defining their audience. Nervos had 110 posts during this time period, and Parity had 44. I was surprised by this, as I didn't realize that there is such a big difference in the number when I search content for [RiB Newsletter][rib-site] each month.
 
@@ -177,8 +177,8 @@ There are clear differences in the categorization of content. Nervos has a few g
 
 With the projects categorizing their content differently, it is hard to compare them. To make a simpler comparison, I added the same tags to each project's posts: culture, tech, status report, marketing. So the charts turn out to be like this:
 
-![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Nervos-online-content-with-my-tags.svg)
-![](https://github.com/Aimeedeer/coconut-report/blob/master/graphic-assets/Parity-online-content-with-my-tags.png)
+![](/graphic-assets/Nervos-online-content-with-my-tags.svg)
+![](/graphic-assets/Parity-online-content-with-my-tags.png)
 
 In this analysis, Parity has a higher percentage of technical and culture content than Nervos, compared to marketing content.
 
