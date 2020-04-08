@@ -1,6 +1,6 @@
 ---
 author: "Aimee"
-date: 2020-04-10
+date: 2020-04-20
 linktitle: Build a Bot for RiB Newsletter
 menu:
   main:

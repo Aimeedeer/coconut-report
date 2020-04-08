@@ -1,11 +1,11 @@
 ## Posts Collection
 
 #### Development
-
 - [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
 - [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
 - [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
 - [Programs, life cycles, and laws of software evolution](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/)
+- [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)
 
 #### Online Community
 
@@ -27,7 +27,7 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 - [Aviv Eyal](https://avive.github.io/) -- A cool maker
     - I love Spacemesh's site style: https://spacemesh.io/weekly-updates/
 
-#### Market
+#### Marketing
 
 - [Content isn't king](https://www.ben-evans.com/benedictevans/2017/7/13/content-isnt-king)
 
