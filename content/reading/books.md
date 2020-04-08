@@ -2,11 +2,11 @@
 
 Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
-## Want to Read
+#### Want to Read
 
 - [Permanent_Record_-_CN](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)
 
-## Reading
+#### Reading
 
 - The Little Book that Still Beats the Market
 - If You Tell
@@ -16,13 +16,12 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 - Think and Grow Rich
 
 
-## Finished
+#### Finished
 
-#### 血疫
+- 血疫
+  - 人类也是地球的病毒之一，需要抑制的。
 
-- 人类也是地球的病毒之一，需要抑制的。
 
-
-## Notes
+#### Notes
 
 - Bought amazon.com unlimited
