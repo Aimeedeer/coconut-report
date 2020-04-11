@@ -13,3 +13,5 @@
 - [How to Be a Great Founder with Reid Hoffman](https://www.youtube.com/watch?v=pkAum45ubWc)
 
 - [Sam Altman on Choosing Projects, Creating Value, and Finding Purpose](https://www.youtube.com/watch?v=uEl2KUZ3JWA)
+
+- [Ben Horowitz: Nailing the Hard Things](https://www.youtube.com/watch?v=F2e3RqL4VWs)
