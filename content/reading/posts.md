@@ -6,6 +6,8 @@
 - [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
 - [Programs, life cycles, and laws of software evolution](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/)
 - [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)
+- [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
+- [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
 
 #### Online Community
 
