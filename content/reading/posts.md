@@ -9,6 +9,13 @@
 - [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
 - [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
 
+#### projects
+
+- BlockPGP
+  - [GitHub](https://github.com/alyakubov/blockpgp)
+  - [Paper: BlockPGP: A Blockchain-based Framework for PGP Key Servers](https://www.researchgate.net/publication/281144277_From_Pretty_Good_To_Great_Enhancing_PGP_using_Bitcoin_and_the_Blockchain)
+
+
 #### Online Community
 
 - [Ethereum Hackathon Survival Guide](https://media.consensys.net/ethereum-hackathon-survival-guide-aea1d65ba006) -- Help me draft the guidelines for a hackathon.
