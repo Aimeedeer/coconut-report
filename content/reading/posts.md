@@ -10,6 +10,7 @@
 - [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)
 - [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
 - [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
+- [Opensea docs: build a new tradeable ERC721 from scratch](https://docs.opensea.io/docs)
 
 #### projects
 
