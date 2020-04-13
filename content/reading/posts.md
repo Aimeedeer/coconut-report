@@ -1,6 +1,8 @@
 ## Posts Collection
 
 #### Development
+
+- [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 - [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
 - [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
 - [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
