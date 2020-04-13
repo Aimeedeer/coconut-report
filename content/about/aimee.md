@@ -22,3 +22,4 @@ For day to day efforts, I maintain a lovely `Coconut Report` which is updated ea
 - [LinkedIn](https://www.linkedin.com/in/aimeezhu/)
 - [Instagram](https://www.instagram.com/aimeedeer/)
 - aimeedeer@gmail.com
+- [中文站](https://newhacker.org)
