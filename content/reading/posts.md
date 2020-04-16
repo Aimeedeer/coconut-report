@@ -3,7 +3,6 @@
 #### Development
 
 - [How to pick up a project with an audit](https://bluesock.org/~willkg/blog/dev/auditing_projects.html)
-
 - [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 - [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
 - [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
@@ -47,10 +46,8 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 #### Notes
 
 - RescueTime Newsletter
-
-Over the years, we’ve seen people have the most success with goals that have a few specific qualities:
-
-- Outcome: Know what specifically you’re trying to accomplish
-- Intention: Understand why you’re choosing that specific goal
-- Realistic: Is this something you can hit on a regular basis?
-- Doable: Start small and build off of your success
+  - Over the years, we’ve seen people have the most success with goals that have a few specific qualities:
+    - Outcome: Know what specifically you’re trying to accomplish
+    - Intention: Understand why you’re choosing that specific goal
+    - Realistic: Is this something you can hit on a regular basis?
+    - Doable: Start small and build off of your success

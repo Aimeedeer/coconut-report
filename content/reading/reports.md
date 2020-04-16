@@ -41,10 +41,7 @@ Makers](https://arxiv.org/pdf/2003.10001.pdf)
 
 ## Papers
 
-[Landscape of Ethereum Smart Contracts](http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_14.pdf)
-
-[Ride the Lightning: The Game Theory of Payment Channels](https://fc20.ifca.ai/preproceedings/134.pdf)
-
-[Remote Side-Channel Attacks on Anonymous Transactions](https://eprint.iacr.org/2020/220.pdf)
-
-[SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf)
+- [Landscape of Ethereum Smart Contracts](http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_14.pdf)
+- [Ride the Lightning: The Game Theory of Payment Channels](https://fc20.ifca.ai/preproceedings/134.pdf)
+- [Remote Side-Channel Attacks on Anonymous Transactions](https://eprint.iacr.org/2020/220.pdf)
+- [SoK: A Classification Framework for Stablecoin Designs](https://fc20.ifca.ai/preproceedings/119.pdf)
