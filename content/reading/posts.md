@@ -2,6 +2,8 @@
 
 #### Development
 
+- [How to pick up a project with an audit](https://bluesock.org/~willkg/blog/dev/auditing_projects.html)
+
 - [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 - [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
 - [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
@@ -12,7 +14,7 @@
 - [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
 - [Opensea docs: build a new tradeable ERC721 from scratch](https://docs.opensea.io/docs)
 
-#### projects
+#### Projects
 
 - BlockPGP
   - [GitHub](https://github.com/alyakubov/blockpgp)
@@ -33,11 +35,6 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 #### About Reading
 
 - [Stab a Book, the Book Won't Die](https://craigmod.com/essays/media_accounting/)
-
-#### Makers
-
-- [Aviv Eyal](https://avive.github.io/) -- A cool maker
-    - I love Spacemesh's site style: https://spacemesh.io/weekly-updates/
 
 #### Marketing
 
