@@ -6,11 +6,14 @@ type: report
 
 ## Hello!
 
-This documentation is maintained by [Aimee](about/aimee).
+
+#### This documentation is maintained by [Aimee](about/aimee).
 
     Hello, World!
 
-Words I love from Albert Camus:
+
+
+#### Words I love from Albert Camus:
 
     Don’t walk in front of me
     I may not follow
@@ -19,6 +22,7 @@ Words I love from Albert Camus:
     Walk beside me
     Just be my friend
 
-## Help me to make it better?
+
+#### Help me to make it better?
 
 Click the "Edit this page" button at the bottom right.

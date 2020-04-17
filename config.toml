@@ -6,7 +6,7 @@ theme = 'book'
 publishDir = "../aimeedeer.github.io"
 
 # Book configuration
-disablePathToLower = true
+disablePathToLower = false
 enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
