@@ -18,6 +18,7 @@ I listed the [projects](about/projects) I made or participated in.
 For day to day efforts, I maintain a lovely `Coconut Report` which is updated each week.
 
 - [中文博客](https://newhacker.org)
+- [Keybase](https://keybase.io/aimeedeer)
 - [GitHub](https://github.com/Aimeedeer)
 - [Twitter](https://twitter.com/Aimee_Z_)
 - [LinkedIn](https://www.linkedin.com/in/aimeezhu/)
