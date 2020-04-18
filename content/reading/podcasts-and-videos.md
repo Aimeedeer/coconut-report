@@ -2,6 +2,7 @@
 
 #### Podcasts
 
+- [Dominic Tarr: Secure Scuttlebutt – The “Localized” but Distributed Social Network](https://letstalkbitcoin.com/blog/post/epicenter-dominic-tarr-secure-scuttlebutt-the-localized-but-distributed-social-network)
 - [ZKPs, Audits & Security with Benjamin Perez from Trail of Bits](https://www.zeroknowledge.fm/122)
 - [Metrics and Mindsets for Retention & Engagement](https://a16z.simplecast.com/episodes/retention-engagement-metrics-cohort-analysis-platforms-marketplaces-zKgUegIs)
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
