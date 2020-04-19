@@ -12,7 +12,7 @@ title: A proof-of-work week
 
 This week, I spent more time on Rust language learning, read code and practice, made the ribbot fetch new open issues from given projects. The next thing will let it get news from Medium source -- automate the RiB news generating process over time.
 
-- Rust documentation is very well written. I enjoyed reading it. For example, the [Closures](https://doc.rust-lang.org/book/ch13-01-closures.html), the writer even thought about the readers' next thought -- if they want to use Closure in functions syntax -- and thoroughly practically explained the concept, with code demos -- a lovely narrative.
+Rust documentation is very well written. I enjoyed reading it. For example, the [Closures](https://doc.rust-lang.org/book/ch13-01-closures.html), the writer even thought about the readers' next thought -- if they want to use Closure in functions syntax -- and thoroughly practically explained the concept, with code demos -- a lovely narrative.
 
 >Closures don’t require you to annotate the types of the parameters or the return value like `fn` functions do. Type annotations are required on functions because they’re part of an explicit interface exposed to your users. Defining this interface rigidly is important for ensuring that everyone agrees on what types of values a function uses and returns. But closures aren’t used in an exposed interface like this: they’re stored in variables and used without naming them and exposing them to users of our library.
 
@@ -24,9 +24,9 @@ This week, I spent more time on Rust language learning, read code and practice, 
 
 I somehow like reading documentation more than blog posts, because I can get good enough information with helpful documentation. In contrast, by reading blog posts, I have to receive too many thoughts and opinions, which I don't really care, from different writers. Reading blog posts is about wasting half energy on exhaust extra information to me.
 
-Emacs is a powerful tool. I started to use that from Emacs server that we shared the same session when programming. I was too enjoyed to save my attention from only switch screens between Emacs and terminal, and now I practice those commands every day.
+Emacs is a powerful tool. I started to use that from Emacs server that we shared the same session when programming. I was too enjoyed to save my attention from only switch screens between terminal Emacs and browser, and now I practice those commands every day.
 
-I tried [Beaker](https://github.com/beakerbrowser/beaker), a peer-to-peer Web browser, and some DeFi apps as well. Learn [CKB](https://github.com/nervosnetwork/ckb) by its developers' blog posts, but reading code is most helpful for programming, so as documentation (if there is one).
+I tried [Beaker](https://github.com/beakerbrowser/beaker), a peer-to-peer web browser, and some DeFi apps as well. Learn [CKB](https://github.com/nervosnetwork/ckb) by its developers' blog posts, but reading code is most helpful for programming, so as documentation (if there is one).
 
 News from [Rust in Blockchain](https://rustinblockchain.org) world,
 
@@ -45,7 +45,7 @@ Things from blockchain world -- too many!
 
 #### Business
 
-- Working in progress business plan.
+- Working in progress business plan
 
 #### Build on CKB
 

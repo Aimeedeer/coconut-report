@@ -12,6 +12,7 @@ I love to try new things
 
 - Programming in Rust, to build a bot army
 - A business plan
+- Mastering Emacs
 
 ## On the List & ideas
 
@@ -24,6 +25,7 @@ I love to try new things
 - Build a website in Hugo
   - rustinblockchain.org
   - impl.dev
+  - newhacker.org
 - Build a website in Jekyll
   - onckb.com
 - SPA
