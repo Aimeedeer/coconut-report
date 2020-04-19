@@ -12,7 +12,7 @@ title: A proof-of-work week
 
 This week, I spent more time on Rust language learning, read code and practice, made the ribbot fetch new open issues from given projects. The next thing will let it get news from Medium source -- automate the RiB news generating process over time.
 
-- Rust documentation is very well written. I enjoyed reading it. For example, the [Closures](https://doc.rust-lang.org/book/ch13-01-closures.html), the writer even thought about the readers' next thought -- if they want to use Closure in functions syntax -- and thoroughly practically explained the concept, with code demos—a lovely narrative.
+- Rust documentation is very well written. I enjoyed reading it. For example, the [Closures](https://doc.rust-lang.org/book/ch13-01-closures.html), the writer even thought about the readers' next thought -- if they want to use Closure in functions syntax -- and thoroughly practically explained the concept, with code demos -- a lovely narrative.
 
 >Closures don’t require you to annotate the types of the parameters or the return value like `fn` functions do. Type annotations are required on functions because they’re part of an explicit interface exposed to your users. Defining this interface rigidly is important for ensuring that everyone agrees on what types of values a function uses and returns. But closures aren’t used in an exposed interface like this: they’re stored in variables and used without naming them and exposing them to users of our library.
 
@@ -30,8 +30,8 @@ I tried [Beaker](https://github.com/beakerbrowser/beaker), a peer-to-peer Web br
 
 News from [Rust in Blockchain](https://rustinblockchain.org) world,
 
-- Mobilecoin is open sourced, and they submitted a [PR](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/9) to the next Rib issue.
-- Libra has a new white paper. Lane commented in the [Rust in Blockchain TG group](https://t.me/rustinblockchain) that, it's basically just a database.
+- Mobilecoin is open sourced, and they submitted a [PR](https://github.com/rust-in-blockchain/rust-in-blockchain/pull/9) to the next Rib issue
+- Libra has a new white paper. Lane commented in the [Rust in Blockchain TG group](https://t.me/rustinblockchain) that, it's basically just a database
 - [Komodo](https://github.com/KomodoPlatform) is rewriting their code in Rust
 - [IPFS](https://github.com/ipfs-rust/rust-ipfs) Rust implementation
 - [Filecoin Node](https://github.com/ChainSafe/forest) Rust implementation
