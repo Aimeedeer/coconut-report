@@ -6,9 +6,9 @@ menu:
 title: Projects
 ---
 
-## My previous experience
+My previous experience
 
-#### Tech Projects
+## Tech Projects
 
 - [Rust in Blockchain](https://rustinblockchain.org/) (Dev newsletter)
 - [Ferris Fencing](http://www.ferrisfencing.org/) (Development)
@@ -19,14 +19,13 @@ title: Projects
 - An analysis management system for a public security department (Development)
 - A telecommunication OA system (Development)
 
-#### Posts
+## Posts
 
 - Posts at Nervos
   - [A Close Encounter with Rust Community](https://medium.com/@Aimeedeer/a-close-touch-with-rust-community-4a8507b756d9)
   - [Why Rust?](https://medium.com/layerscrypto/why-rust-c877fba0ca94)
-
 - [Posts at SegmentFault](https://segmentfault.com/u/aimeedeer/articles) (in Chinese)
 
-#### Others
+## Others
 
 - Excellent Coffee Shop (TODO: photos)

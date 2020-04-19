@@ -1,21 +1,27 @@
-## Books in 2020
+---
+linktitle: Books in 2020
+menu:
+  main:
+    parent: reading
+title: Books in 2020
+---
 
 Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
-#### Want to Read
+## Want to Read
 
 - [Permanent_Record_-_CN](https://a.temporaryrecord.com/Permanent_Record_-_CN_edition_with_underlined_redactions.pdf)
 
-#### Reading
+## Reading
 
 - I Am Watching You
-- Essential Poker Math, Expanded Edition: Fundamental No Limit Hold'em Mathematics You Need To Know 
+- Essential Poker Math, Expanded Edition: Fundamental No Limit Hold'em Mathematics You Need To Know
 - 枪炮、病菌与钢铁
 - 伟大的博弈
 - 人的境况
 
 
-#### Finished
+## Finished
 
 - Animal Farm
 - Decisions: Life and Death on Wall Street
@@ -26,6 +32,6 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 - Think and Grow Rich
 
 
-#### Notes
+## Notes
 
 - Bought amazon.com unlimited

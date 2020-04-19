@@ -5,8 +5,7 @@ menu:
     parent: about
 title: Aimee
 ---
-
-## Hello!
+Hi,
 
 I’m Aimee (阿敏). I build products and developer communities.
 

@@ -1,16 +1,13 @@
 ---
 date: 2020-04-12
-linktitle: 2020-04-12 Apply for the first grant
+linktitle: Apply for the first grant
 menu:
   main:
     parent: report
-title: 2020-04-12 Apply for the first grant
+title: Apply for the first grant
 ---
 
-` Location: Utah, US`
-
-` Timezone: UTC-6`
-
+`Utah, US`
 
 This week, I tried to build a bot in Rust. Read a bunch of documentation and onboard articles. I had many questions on the basic syntax, for example `mut`. From learning new small pieces of knowledge, I started to take notes seriously, tried to record down each step I made.
 

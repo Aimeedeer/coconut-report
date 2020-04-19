@@ -3,6 +3,6 @@ weight: 3
 bookFlatSection: true
 menu:
   after:
-    name: readings
-title: Readings
+    name: reading
+title: Reading
 ---

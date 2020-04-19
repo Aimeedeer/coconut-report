@@ -1,3 +1,11 @@
+---
+linktitle: Report collections
+menu:
+  main:
+    parent: reading
+title: Report collections
+---
+
 ## Report collections
 
 - [Financial Cryptography 2020 Recap](https://blog.trailofbits.com/2020/03/18/financial-cryptography-2020-recap/)
@@ -8,7 +16,6 @@
   - Secure computation
   - Cryptography
 - [246 Findings From our Smart Contract Audits: An Executive Summary](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
-
 
 - [2020 Q1 Dapp Market Report by DappReview](https://dapp.review/article/251)
   - Compared to 2019 Q1:
@@ -36,8 +43,6 @@ Makers](https://arxiv.org/pdf/2003.10001.pdf)
 - [Tech in 2020: Standing on the shoulders of giants](https://www.ben-evans.com/presentations)
 - [Electric Capital Developer Report (H1 2019)](https://medium.com/@ElectricCapital/electric-capital-developer-report-h1-2019-7d836d68fecb)
   - June 2018: 7671 monthly developers; August 2019: 6842 monthly developers
-
-
 
 ## Papers
 
