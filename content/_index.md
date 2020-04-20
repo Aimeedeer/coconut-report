@@ -9,7 +9,10 @@ type: docs
 
 #### This documentation is maintained by [Aimee](about/aimee).
 
+
+
     Hello, World!
+
 
 
 
@@ -23,6 +26,4 @@ type: docs
     Just be my friend
 
 
-#### Help me to make it better?
-
-Click the "Edit this page" button at the bottom right.
+Subscribe Coconut Report via [RSS](/index.xml)
