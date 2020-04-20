@@ -5,18 +5,23 @@ menu:
     parent: reading
 title: Post collections
 ---
-## Development
+## Industry
 
+- [The State of L2 Investments](https://www.tokendaily.co/blog/the-state-of-l2-investments) -- Part 1: Progress and Investability of BTC Off-Chain Solutions.
+- [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
+- [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
+- [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
+
+#### Development
+
+- [Uniswap/Lendf.Me Hacks: Root Cause and Loss Analysis](https://medium.com/@peckshield/uniswap-lendf-me-hacks-root-cause-and-loss-analysis-50f3263dcc09)
 - [So You Want to Be a (Compiler) Wizard](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/#)
 - [How to pick up a project with an audit](https://bluesock.org/~willkg/blog/dev/auditing_projects.html)
 - [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
 - [Stacked Borrows: An Aliasing Model for Rust](https://plv.mpi-sws.org/rustbelt/stacked-borrows/paper.pdf)
-- [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
 - [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365)
 - [Programs, life cycles, and laws of software evolution](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/)
 - [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)
-- [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
-- [What to Expect When ETH’s Expecting](https://hackernoon.com/what-to-expect-when-eths-expecting-80cb4951afcd)
 - [Opensea docs: build a new tradeable ERC721 from scratch](https://docs.opensea.io/docs)
 
 ## Projects
