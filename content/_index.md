@@ -6,8 +6,12 @@ type: docs
 
 ## Hello!
 
+Hi, I am [Aimee](about/aimee). I build stuff.
 
-#### This documentation is maintained by [Aimee](about/aimee).
+#### Coconut Report
+
+Coconut report was created as my weekly notes and later turns to be any-notes documentation.
+
 
 
 
@@ -16,7 +20,7 @@ type: docs
 
 
 
-#### Words I love from Albert Camus:
+#### I love the words from Albert Camus
 
     Don’t walk in front of me
     I may not follow

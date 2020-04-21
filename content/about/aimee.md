@@ -16,10 +16,12 @@ I listed the [projects](about/projects) I made or participated in.
 
 For day to day efforts, I maintain a lovely `Coconut Report` which is updated each week.
 
-- [中文博客](https://newhacker.org)
-- [Keybase](https://keybase.io/aimeedeer)
-- [GitHub](https://github.com/Aimeedeer)
-- [Twitter](https://twitter.com/Aimee_Z_)
-- [LinkedIn](https://www.linkedin.com/in/aimeezhu/)
-- [Instagram](https://www.instagram.com/aimeedeer/)
-- aimeedeer@gmail.com
+<div>
+    <a href="https://github.com/Aimeedeer"><i class="fa fa-github"></i></a>
+    <a href="https://twitter.com/Aimee_Z_"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.linkedin.com/in/aimeezhu/"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/aimeedeer/"><i class="fa fa-instagram"></i></a>
+</div>
+<div>
+    <a href="https://newhacker.org"><i class="fa fa-hand-o-right"> 中文博客</i></a>
+</div>
