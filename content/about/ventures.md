@@ -1,12 +1,11 @@
 ---
-linktitle: Daily Venture
 menu:
   main:
     parent: about
-title: Daily Venture
+title: Ventures
 ---
 
-I love to try new things
+I love to try new things.
 
 ## Working in Progress
 

@@ -1,5 +1,4 @@
 ---
-linktitle: Aimee
 menu:
   main:
     parent: about

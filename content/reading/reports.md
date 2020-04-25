@@ -3,11 +3,10 @@ linktitle: Report collections
 menu:
   main:
     parent: reading
-title: Report collections
+title: Report Collections
 ---
 
 ## Report collections
-
 - [Financial Cryptography 2020 Recap](https://blog.trailofbits.com/2020/03/18/financial-cryptography-2020-recap/)
   - Security
   - Program analysis
@@ -16,7 +15,6 @@ title: Report collections
   - Secure computation
   - Cryptography
 - [246 Findings From our Smart Contract Audits: An Executive Summary](https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/)
-
 - [2020 Q1 Dapp Market Report by DappReview](https://dapp.review/article/251)
   - Compared to 2019 Q1:
     - The transaction volume of Finance dapps reached $2.95 billion, an increase of 1,743%

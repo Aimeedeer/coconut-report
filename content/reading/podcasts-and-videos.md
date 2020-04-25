@@ -3,7 +3,7 @@ linktitle: Good talks
 menu:
   main:
     parent: reading
-title: Good talks
+title: Good Talks
 ---
 
 ## Podcasts

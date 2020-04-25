@@ -34,4 +34,5 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Notes
 
-- Bought amazon.com unlimited
+- amazon.com unlimited
+- amazon.cn unlimited 

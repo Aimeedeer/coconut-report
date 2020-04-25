@@ -1,8 +1,8 @@
 ---
-weight: 5
+weight: 1
 bookFlatSection: true
 menu:
   after:
-    name: About Me
-title: About Me
+    name: About
+title: About
 ---

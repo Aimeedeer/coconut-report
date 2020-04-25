@@ -3,7 +3,7 @@ linktitle: Post collections
 menu:
   main:
     parent: reading
-title: Post collections
+title: Post Collections
 ---
 ## Industry
 
