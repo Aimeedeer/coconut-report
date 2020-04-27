@@ -14,6 +14,7 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Reading
 
+- Inside the House of Money
 - I Am Watching You
 - Essential Poker Math, Expanded Edition: Fundamental No Limit Hold'em Mathematics You Need To Know
 - 枪炮、病菌与钢铁
@@ -32,7 +33,8 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 - Think and Grow Rich
 
 
-## Notes
+## Subscribe
 
-- amazon.com unlimited
-- amazon.cn unlimited 
+- The Economist
+- Amazon.com unlimited
+- Amazon.cn unlimited 
