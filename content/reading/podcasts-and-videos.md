@@ -20,3 +20,4 @@ title: Good Talks
 - [Sam Altman on Choosing Projects, Creating Value, and Finding Purpose](https://www.youtube.com/watch?v=uEl2KUZ3JWA)
 - [Ben Horowitz: Nailing the Hard Things](https://www.youtube.com/watch?v=F2e3RqL4VWs)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
+- [幕后故事：回形针事怎么做视频的](https://www.youtube.com/watch?v=SVbckfMaI6w）

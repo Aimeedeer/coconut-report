@@ -14,9 +14,16 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Reading
 
+- Debt
+- Bird by bird
+- Stylebook 2019
+- Out of my mind
+- The elements of style
+- The Hobbit
 - Inside the House of Money
-- I Am Watching You
+- I Am Watching You 
 - Essential Poker Math, Expanded Edition: Fundamental No Limit Hold'em Mathematics You Need To Know
+- Harry Potter and the Sorcerer's Stone
 - 枪炮、病菌与钢铁
 - 伟大的博弈
 - 人的境况
@@ -24,6 +31,7 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Finished
 
+- Manage Your Day-to-Day
 - Animal Farm
 - Decisions: Life and Death on Wall Street
 - The Little Book that Still Beats the Market
@@ -33,7 +41,7 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 - Think and Grow Rich
 
 
-## Subscribe
+## Subscriptions
 
 - The Economist
 - Amazon.com unlimited

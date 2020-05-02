@@ -5,8 +5,18 @@ menu:
     parent: reading
 title: Post Collections
 ---
+
+## Economics
+
+- [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/)
+  - Speculative investment, with ambitious but inexact expectations of financial return, is important fuel for founders who build the unknown future. However, investors and oper\
+ators are often deeply misaligned: investors think in bets, while operators think in consequences. The relationship is tense, but can be explosively productive. The VC model is \
+an institutional expression of this tension.
+- [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
+
 ## Industry
 
+- [Crypto’s Business Model is Familiar. What Isn’t is Who Benefits](https://a16z.com/2020/04/08/crypto-network-effects/)
 - [The State of L2 Investments](https://www.tokendaily.co/blog/the-state-of-l2-investments) -- Part 1: Progress and Investability of BTC Off-Chain Solutions.
 - [The Myth of The Infrastructure Phase](https://www.usv.com/writing/2018/10/the-myth-of-the-infrastructure-phase/)
 - [The State of Ethereum 2.0](https://docs.google.com/document/d/1PS0k9MaKPdPwEw3Uh9rq7USjq7LcSpT6ICQUXRij4YE/edit#heading=h.kdbgcss2wsc)
@@ -24,14 +34,15 @@ title: Post Collections
 - [Rattle - an Ethereum EVM binary analysis framework](https://www.trailofbits.com/presentations/rattle/)
 - [Opensea docs: build a new tradeable ERC721 from scratch](https://docs.opensea.io/docs)
 
-## Projects
+#### Projects
 
+- [Uniswap V2](https://uniswap.org/blog/uniswap-v2/)
+- [The Ultimate Guide to ENS Names](https://medium.com/@eric.conner/the-ultimate-guide-to-ens-names-aa541586067a)
 - BlockPGP
   - [GitHub](https://github.com/alyakubov/blockpgp)
   - [Paper: BlockPGP: A Blockchain-based Framework for PGP Key Servers](https://www.researchgate.net/publication/281144277_From_Pretty_Good_To_Great_Enhancing_PGP_using_Bitcoin_and_the_Blockchain)
 
-
-## Online Community
+#### Online Community
 
 - [Ethereum Hackathon Survival Guide](https://media.consensys.net/ethereum-hackathon-survival-guide-aea1d65ba006) -- Help me draft the guidelines for a hackathon.
 - [Part II: Usenet — Let's Return to Public Spaces](https://october.substack.com/p/part-ii-usenet-a-genuinely-public)
@@ -45,6 +56,8 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 ## About Reading
 
 - [Stab a Book, the Book Won't Die](https://craigmod.com/essays/media_accounting/)
+- [How to Take Smart Notes: A Step-by-Step Guide](https://www.nateliason.com/blog/smart-notes)
+- [Get Lifetime Access to Part of My Brain](https://www.nateliason.com/brain)
 
 ## Marketing
 

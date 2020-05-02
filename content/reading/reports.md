@@ -7,6 +7,15 @@ title: Report Collections
 ---
 
 ## Report collections
+
+- [Bitcoin Maturation Leap](https://data.bloomberglp.com/professional/sites/10/Bloomberg-Crypto-Outlook-April-2020.pdf)
+- [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)
+- [Digimentality Fear and favouring of digital currency](https://digitalcurrency.economist.com/)
+- [The Q1 2020 DeFi Report](https://cdn2.hubspot.net/hubfs/4795067/Alethio%20Defi%20Report%20-%202020.pdf)
+  - All data in this Q1 2020 DeFi Report was collected and analyzed by Alethio Analytics.
+  - There are two ways to measure funds locked in DeFi: ETH locked and USD locked.
+    - 1. ETH locked measures the amount of ETH and WETH (ETH represented as an ERC-20 token) that has been sent to these smart contracts.
+    - 2. USD locked measures the USD value of the funds locked in DeFi smart contracts. USD locked is directly correlated with the market price of ETH. Even if the ETH locked in DeFi amount stays the same, the USD locked value would increase or decrease as the USD price of ETH changes.  
 - [Financial Cryptography 2020 Recap](https://blog.trailofbits.com/2020/03/18/financial-cryptography-2020-recap/)
   - Security
   - Program analysis
