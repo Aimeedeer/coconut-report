@@ -59,6 +59,10 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 - [How to Take Smart Notes: A Step-by-Step Guide](https://www.nateliason.com/blog/smart-notes)
 - [Get Lifetime Access to Part of My Brain](https://www.nateliason.com/brain)
 
+## Life lessons
+
+- [My Rules of Thumb By N. Gregory Mankiw](http://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf)
+
 ## Marketing
 
 - [Content isn't king](https://www.ben-evans.com/benedictevans/2017/7/13/content-isnt-king)
