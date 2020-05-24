@@ -9,9 +9,7 @@ title: Post Collections
 ## Economics
 
 - [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/)
-  - Speculative investment, with ambitious but inexact expectations of financial return, is important fuel for founders who build the unknown future. However, investors and oper\
-ators are often deeply misaligned: investors think in bets, while operators think in consequences. The relationship is tense, but can be explosively productive. The VC model is \
-an institutional expression of this tension.
+  - Speculative investment, with ambitious but inexact expectations of financial return, is important fuel for founders who build the unknown future. However, investors and operators are often deeply misaligned: investors think in bets, while operators think in consequences. The relationship is tense, but can be explosively productive. The VC model is an institutional expression of this tension.
 - [When Tailwinds Vanish](https://luttig.substack.com/p/when-tailwinds-vanish)
 
 ## Industry
@@ -51,7 +49,38 @@ an institutional expression of this tension.
 - [Effects of anonymity, invisibility, and lack of eye-contact on toxic
 online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 - [Web3 foundation grants](https://medium.com/web3foundation/wrap-up-for-winter-with-our-wave-four-grant-recipients-52c27b831a6e): "The end of 2019 marks the end of the fourth quarter of the Web3 Foundation Grants Program. In the first year of the program we received almost 200 applications and awarded more than 60 grants."
+- [The chat room/forum problem](https://scobleizer.blog/2009/11/02/the-chat-roomforum-problem-an-apology-to-technosailor/)
+- [Building Communities with Software](https://www.joelonsoftware.com/2003/03/03/building-communities-with-software/)
 
+## Marketing
+
+- [Guide to audience revenue and engagement](https://www.cjr.org/tow_center_reports/guide-to-audience-revenue-and-engagement.php)
+- [Content isn't king](https://www.ben-evans.com/benedictevans/2017/7/13/content-isnt-king)
+- [How the biggest consumer apps got their first 1,000 users](https://angel.co/today/stories/how-the-biggest-consumer-apps-got-their-first-1-000-users-21308?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter-20200521)
+  - Go where your target users are, offline
+  - Go where your target users are, online
+  - Invite your friends
+  - Create FOMO in order to drive word-of-mouth
+  - Leverage influencers
+  - Get press
+  - Build a community pre-launch
+- [The Information’s Jessica Lessin on how she’s scaling an already-expensive subscription product](https://www.niemanlab.org/2016/10/the-informations-jessica-lessin-on-how-shes-scaling-an-already-expensive-subscription-product/)
+  - The main bucket is obviously the content: 
+    - about two stories a day, exclusive stories that people aren’t going to be able to get elsewhere, 
+    - delivered into people’s inboxes as well as posted online. That’s obviously the most important part.
+  - Second to that is the community. 
+  - That includes the online community on TheInformation.com, where we have an active group of contributors who add comments to articles. 
+  - LESSIN:
+    - The first thing is that they have to have a track record of doing really tough, important stories. A lot of reporters romanticize doing deep investigative pieces or breaking big news or writing truly original analysis, but I’ve found that if they don’t have a track record of doing those stories, they’re not as good a fit.
+    - The track record of those stories is more important than the subject matter. 
+    - We’ve hired fabulous reporters who, prior to joining us, hadn’t covered tech — they’d covered real estate or something else, but their stories really stood out. That was more important than hiring reporters who had just been on the tech beat for a really long time.
+    - Also, I think all good reporters have to be pretty tenacious and not give up. There’s a lot of pushback these days from companies and sources and all sorts of people who really mislead reporters constantly, particularly with stories that are tough about their business. 
+    - It’s really important to stand firm. You have to have a really thick skin for the kinds of stories we do.
+- [Loyalty is membership’s North Star. Here’s how news sites & advocacy groups measure it.](https://membershippuzzle.org/articles-overview/membership-benchmarks)
+  - David suggests two major and interconnected indicators that he determined drove membership: 1) frequency of use, and 2) a sense of personal importance. 
+  - Slate’s data showed that readers who view eight articles per month or more are far more likely to subscribe. 
+  - Here, he found that the average performance is 4.22% of unique visitors as regular readers.
+- [The Rise of Lifestyle Streamers](https://a16z.com/2020/04/08/lifestyle-streamers/)
 
 ## About Reading
 
@@ -62,17 +91,7 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
 ## Life lessons
 
 - [My Rules of Thumb By N. Gregory Mankiw](http://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf)
-
-## Marketing
-
-- [Content isn't king](https://www.ben-evans.com/benedictevans/2017/7/13/content-isnt-king)
-
-## Networks
-
 - [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
-
-## Notes
-
 - RescueTime Newsletter
   - Over the years, we’ve seen people have the most success with goals that have a few specific qualities:
     - Outcome: Know what specifically you’re trying to accomplish

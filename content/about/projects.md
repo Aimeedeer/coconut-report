@@ -10,22 +10,22 @@ My previous experience
 
 ## Tech Projects
 
-- [Rust in Blockchain](https://rustinblockchain.org/) (Dev newsletter)
-- [Ferris Fencing](http://www.ferrisfencing.org/) (Development)
-- [Nervos Network](https://www.nervos.org/) (Dev community)
-- [RustCon Asia](https://rustcon.asia/) (Dev conference)
-- [Anyone Can Code](https://segmentfault.com/hackathon-2016) (Hackathon)
-- [SegmentFault](https://segmentfault.com/) (Dev community)
-- An analysis management system for a public security department (Development)
-- A telecommunication OA system (Development)
+- [Rust in Blockchain](https://rustinblockchain.org/) `dev` `newsletter`
+- [Ferris Fencing](http://www.ferrisfencing.org/) `dev` `build`
+- [Nervos Network](https://www.nervos.org/) `dev` `community`
+- [RustCon Asia](https://rustcon.asia/) `dev` `conference`
+- [Anyone Can Code](https://segmentfault.com/hackathon-2016) `hackathon`
+- [SegmentFault](https://segmentfault.com/) `dev` `community`
+- An analysis management system for a public security department `development`
+- A telecommunication OA system `development`
 
 ## Posts
 
-- Posts at Nervos
+- Posts at Nervos 
   - [A Close Encounter with Rust Community](https://medium.com/@Aimeedeer/a-close-touch-with-rust-community-4a8507b756d9)
   - [Why Rust?](https://medium.com/layerscrypto/why-rust-c877fba0ca94)
-- [Posts at SegmentFault](https://segmentfault.com/u/aimeedeer/articles) (in Chinese)
+- [Posts at SegmentFault](https://segmentfault.com/u/aimeedeer/articles) in `Chinese`
 
 ## Others
 
-- Excellent Coffee Shop (TODO: photos)
+- Excellent Coffee Shop `Operation` & `Barista`
