@@ -7,6 +7,8 @@ title: Ventures
 
 I love to try new things.
 
+Alway learning.
+
 ## Working in Progress
 
 - Programming in Rust, to build a bot army
@@ -23,12 +25,14 @@ I love to try new things.
 ## Achievement
 
 - Build websites
-  - cocoverse.com
-  - rustinblockchain.org
-  - impl.dev
-  - newhacker.org
-  - janewu.co
-  - onckb.com
+  - [Cocoverse](https://cocoverse.com)
+  - [CoconutCoin](https://coin.cocoverse.com)
+  - [Coo English](https://cooenglish.com)
+  - [Rust in Blockchain](https://rustinblockchain.org)
+  - [My weekly notes: impl.dev](https://impl.dev)
+  - [My Chinese blog posts: Newhacker](https://newhacker.org)
+  - [My friend Jane's website](http://janewu.co)
+  - [OnCKB](https://onckb.com), stop maintaining
 - SPA
 - Taste fresh coconut juice from [the tree](https://www.instagram.com/p/B8lQxoiA6RQ)
 - Live anywhere
