@@ -23,6 +23,7 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Finished
 
+- 一本小小的红色写作书
 - The elements of style
 - Out of my mind
 - Manage Your Day-to-Day
