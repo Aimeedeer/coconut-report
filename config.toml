@@ -3,7 +3,7 @@
 baseURL = 'https://aimeedeer.github.io'
 title = 'Coconut Report'
 theme = 'book'
-publishDir = "publico"
+publishDir = "public"
 
 # (Optional) Set Google Analytics if you use it to track your website.
 # Always put it on the top of the configuration file, otherwise it won't work
