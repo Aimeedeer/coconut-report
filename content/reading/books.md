@@ -14,7 +14,6 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Reading
 
-- Work Less, Make More
 - Debt
 - The Hobbit
 - Inside the House of Money 
@@ -23,7 +22,8 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Finished
 
-- 一本小小的红色写作书
+- [Work Less, Make More](https://www.goodreads.com/notes/36992849-work-less-make-more/90889710-aimee-zhu?ref=bsop)
+- [一本小小的红色写作书](https://www.goodreads.com/book/show/35561327)
 - The elements of style
 - Out of my mind
 - Manage Your Day-to-Day
