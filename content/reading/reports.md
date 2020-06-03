@@ -8,6 +8,7 @@ title: Report Collections
 
 ## Report collections
 
+- [Blockchain is Watching You: Profiling and Deanonymizing Ethereum Users](https://arxiv.org/abs/2005.14051)
 - [Bitcoin Maturation Leap](https://data.bloomberglp.com/professional/sites/10/Bloomberg-Crypto-Outlook-April-2020.pdf)
 - [An analysis of Uniswap markets](https://arxiv.org/abs/1911.03380)
 - [Digimentality Fear and favouring of digital currency](https://digitalcurrency.economist.com/)
