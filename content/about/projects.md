@@ -11,13 +11,11 @@ Things I made.
 ## Current Projects
 
 - [Rust in Blockchain](https://rustinblockchain.org/)
-- [Coo English](https://cooenglish.com)
 - [Cocoverse](https://cocoverse.com)
 - [Coconutcoin](https://coin.cocoverse.com)
 
 ## Previous Projects
 
-- [Ferris Fencing](http://www.ferrisfencing.org/) `build`
 - [Nervos Network](https://www.nervos.org/) `dev` `community`
 - [RustCon Asia](https://rustcon.asia/) `dev` `conference`
 - [Anyone Can Code](https://segmentfault.com/hackathon-2016) `hackathon`

@@ -14,6 +14,8 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Reading
 
+- [Franklin's Autobiography](https://www.amazon.com/Franklins-Autobiography-Eclectic-English-Classics-ebook/dp/B0052GE5GC/)
+- [Thomas Edison: A Captivating Guide to the Life of a Genius Inventor](https://www.goodreads.com/notes/38145718-thomas-edison/90889710-aimee-zhu)
 - Debt
 - The Hobbit
 - Inside the House of Money 
