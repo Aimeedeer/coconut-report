@@ -14,8 +14,6 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Reading
 
-- [Franklin's Autobiography](https://www.amazon.com/Franklins-Autobiography-Eclectic-English-Classics-ebook/dp/B0052GE5GC/)
-- [Thomas Edison: A Captivating Guide to the Life of a Genius Inventor](https://www.goodreads.com/notes/38145718-thomas-edison/90889710-aimee-zhu)
 - Debt
 - The Hobbit
 - Inside the House of Money 
@@ -24,6 +22,8 @@ Aimee's [goodreads](https://www.goodreads.com/user/show/90889710-aimee-zhu)
 
 ## Finished
 
+- [Franklin's Autobiography](https://www.amazon.com/Franklins-Autobiography-Eclectic-English-Classics-ebook/dp/B0052GE5GC/)
+- [Thomas Edison: A Captivating Guide to the Life of a Genius Inventor](https://www.goodreads.com/notes/38145718-thomas-edison/90889710-aimee-zhu)
 - [Work Less, Make More](https://www.goodreads.com/notes/36992849-work-less-make-more/90889710-aimee-zhu?ref=bsop)
 - [一本小小的红色写作书](https://www.goodreads.com/book/show/35561327)
 - The elements of style
