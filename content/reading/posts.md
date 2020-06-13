@@ -82,14 +82,36 @@ online disinhibition](https://www.sci-hub.tw/10.1016/j.chb.2011.10.014)
   - Here, he found that the average performance is 4.22% of unique visitors as regular readers.
 - [The Rise of Lifestyle Streamers](https://a16z.com/2020/04/08/lifestyle-streamers/)
 
-## About Reading
+## Reading and Writing
 
 - [Stab a Book, the Book Won't Die](https://craigmod.com/essays/media_accounting/)
 - [How to Take Smart Notes: A Step-by-Step Guide](https://www.nateliason.com/blog/smart-notes)
-- [Get Lifetime Access to Part of My Brain](https://www.nateliason.com/brain)
+- [Notes on Writing](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
+  - A common pattern is to begin a piece with a problem or a mystery or a promise. 
+  - Resolving the problem or mystery or fulfilling the promise is what defines the purpose of the piece. 
+  - Of course, your writing may take the reader on a journey, gradually refining (and perhaps redefining) the purpose. 
+  - But it nonetheless remains with the reader and the author. "Destroy the One Ring" is our obsession in The Lord of the Rings. 
+  - The problem confronted in Where Do Good Ideas Come From? needs no elaboration. 
+  - The Language Instinct promises to explore the idea that much of the structure of language is innate to our brains, not learned. 
+  - Each book focuses relentlessly on its purpose.
+  - There are several elements to it: (1) Primary note-taking; (2) Queueing; (3) Refactoring and organization. You need to get good at all.
+- [How to Read an Academic Article](https://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
+  - Read the abstract (if provided)
+  - Read the introduction.
+  - Read the conclusion.
+  - Skim the middle, looking at section titles, tables, figures, etc.—try to get a feel for the style and flow of the article.
+    - Is it methodological, conceptual, theoretical (verbal or mathematical), empirical, or something else?
+    - Is it primarily a survey, a novel theoretical contribution, an empirical application of an existing theory or technique, a critique, or something else?
+  - Go back and read the whole thing quickly, skipping equations, most figures and tables.
+  - Go back and read the whole thing carefully, focusing on the sections or areas that seem most important.
+  - Once you’ve grasped the basic argument the author is trying to make, critique it!
 
 ## Life lessons
 
+- [Get Lifetime Access to Part of My Brain](https://www.nateliason.com/brain)
+- [How to do hard things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
+- [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
+- [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules)
 - [My Rules of Thumb By N. Gregory Mankiw](http://scholar.harvard.edu/files/mankiw/files/my_rules_of_thumb.pdf)
 - [Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects)
 - RescueTime Newsletter
