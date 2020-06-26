@@ -1,10 +1,5 @@
 ---
-author: "Aimee"
 date: 2020-05-10
-linktitle: Notes on <Rules of Thumb>
-menu:
-  main:
-    parent: posts
 title: Notes on Rules of Thumb
 ---
 

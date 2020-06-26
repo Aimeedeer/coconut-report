@@ -1,9 +1,8 @@
 ---
-title: Coconut Report
-type: docs
+omitDate: true
 ---
 
-
+<!--
 ## Hello!
 
 Hi, I am [Aimee](about/aimee). I build stuff.
@@ -31,3 +30,4 @@ Coconut report was created as my weekly notes and later turns to be any-notes do
 
 
 Subscribe Coconut Report via [RSS](/index.xml)
+-->

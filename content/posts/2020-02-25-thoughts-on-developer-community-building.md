@@ -1,10 +1,5 @@
 ---
-author: "Aimee"
 date: 2020-02-25
-linktitle: Thoughts on Developer Community Building
-menu:
-  main:
-    parent: posts
 title: Thoughts on Developer Community Building
 ---
 
