@@ -161,7 +161,7 @@ body {
 }
 .logo-text {
   width: auto;
-  color: #000;
+  color: #a040e0;
   font-size: 24px;
   font-weight: 700;
   line-height: 57px;
@@ -185,7 +185,7 @@ a.article-title,
 .tag-cloud a {
   color: #111;
   text-decoration: none;
-  border-bottom: 1px dotted transparent;
+  border-bottom: 2px dotted transparent;
 }
 .article-meta a:hover,
 a.article-title:hover,
@@ -201,10 +201,10 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-meta a:hover,
 .layout-wrap-inner .category-list a:hover,
 .tag-cloud a:hover {
-  border-bottom-color: #000;
+  border-bottom-color: #a040e0;
 }
 .article-entry a {
-  border-bottom: 1px dotted #000;
+  border-bottom: 2px dotted #a040e0;
 }
 .article-entry h1 {
   font-size: 2em;
@@ -253,7 +253,7 @@ a.article-title:hover,
 }
 .article-entry acronym,
 .article-entry abbr {
-  border-bottom: 1px dotted;
+  border-bottom: 2px dotted;
 }
 .article-entry ul,
 .article-entry ol,
@@ -741,7 +741,7 @@ a.article-title:hover,
   border-left: 3px solid transparent;
 }
 .archive-article-inner:hover {
-  border-left-color: #000;
+  border-left-color: #a040e0;
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -792,7 +792,7 @@ a.article-title:hover,
 #page-nav .current {
   color: #fff;
   border-radius: 18px;
-  background-color: #000;
+  background-color: #a040e0;
 }
 #page-nav .space {
   color: #ddd;

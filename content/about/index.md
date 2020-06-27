@@ -12,7 +12,7 @@ I’m Aimee. I build products and developer communities.
 ### Stuff I love
 - Tech: I adore software development
 - Hand drip coffee: I love Kenya the most
-- Belgian beer and Single malt Scotch 
+- Belgian beer and single malt Scotch 
 
 ### Contact
 - Read my writings in Chinese: [**Aimee 的中文博客**](https://newhacker.org)

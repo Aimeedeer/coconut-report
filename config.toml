@@ -7,7 +7,7 @@ publishDir = "public"
 # Always put it on the top of the configuration file, otherwise it won't work
 googleAnalytics = "UA-134203640-1"
 
-paginate = 10
+paginate = 6
 
 
 [params]
