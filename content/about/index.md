@@ -2,6 +2,7 @@
 omitDate: true
 title: About Me 
 noPostNavigation: true
+hidden: true
 ---
 
 I’m Aimee. I build products and developer communities.
