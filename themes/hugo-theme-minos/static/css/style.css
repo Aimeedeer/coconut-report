@@ -67,7 +67,7 @@ td {
 }
 body {
   line-height: 1;
-  color: #40474e;
+  color: #292929;
   background: #fff;
 }
 ol,
@@ -183,7 +183,7 @@ a.article-title,
 .article-entry .gist .gist-file .gist-meta a,
 .layout-wrap-inner .category-list a,
 .tag-cloud a {
-  color: #40474e;
+  color: #292929;
   text-decoration: none;
   border-bottom: 2px dotted transparent;
 }
@@ -303,7 +303,7 @@ a.article-title:hover,
 #main-nav-toggle,
 .search-form-submit {
   float: left;
-  color: #40474e;
+  color: #292929;
   text-decoration: dotted;
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
@@ -388,7 +388,7 @@ a.article-title:hover,
   float: left;
   font-size: 14px;
   background: none;
-  color: #40474e
+  color: #292929
   outline: none;
 }
 .search-form-input::-webkit-search-results-decoration,
@@ -459,7 +459,7 @@ a.article-title:hover,
   line-height: 1em;
 }
 .article-entry {
-    color: #40474e;
+    color: #292929;
   padding: 0;
 }
 .article-entry:before,
@@ -593,7 +593,7 @@ a.article-title:hover,
   text-decoration: none;
 }
 .article-footer a:hover {
-  color: #40474e;
+  color: #292929;
 }
 .article-tag-list-item {
   float: left;
@@ -625,7 +625,7 @@ a.article-title:hover,
   display: block;
 }
 .article-nav-link-wrap:hover {
-    color: #40474e;
+    color: #292929;
 }
 @media screen and (min-width: 840px) {
   .article-nav-link-wrap {
@@ -658,7 +658,7 @@ a.article-title:hover,
   margin-top: 0.5em;
 }
 .article-gallery {
-  background: #40474e;
+  background: #292929;
   position: relative;
 }
 .article-gallery-photos {
@@ -704,7 +704,7 @@ a.article-title:hover,
   margin-top: 2px;
 }
 .article-toc li a {
-  color: #40474e;
+  color: #292929;
   text-decoration: none;
 }
 .article-toc li a.active {
@@ -828,14 +828,14 @@ a.article-title:hover,
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
-    color: #40474e;
+    color: #292929;
   font-size: 0.85em;
 }
 .article-entry pre,
 .article-entry code {
 //  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
   font-family: monospace;
-  color: #000;
+  color: #292929;
   margin: 10px;
 
 }
