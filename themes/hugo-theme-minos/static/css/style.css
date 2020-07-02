@@ -161,7 +161,7 @@ body {
 }
 .logo-text {
   width: auto;
-  color: #663399;
+  color: #8a4baf;
   font-size: 28px;
   font-weight: 700;
   line-height: 57px;
@@ -201,7 +201,8 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-meta a:hover,
 .layout-wrap-inner .category-list a:hover,
 .tag-cloud a:hover {
-  border-bottom-color: #663399;
+    color: #8a4baf;
+    /*  border-bottom-color: #8a4baf;*/
 }
 .article-entry a {
     text-decoration: underline;
@@ -317,7 +318,7 @@ a.article-title:hover,
     font-weight: 600;
 }
 .main-nav-link a:hover, a:active{
-    border-bottom: 2px dotted #663399;
+    border-bottom: 2px dotted #8a4baf;
 }
 
 @media screen and (max-width: 839px) {
@@ -523,8 +524,8 @@ a.article-title:hover,
   color: #7a7a7a;
   text-align: left;
   line-height: 1em;
-  border-left: 3px solid;
-  border-left-color: #663399;
+  border-left: 5px solid;
+  border-left-color: #8a4baf;
   padding: 10px 10px 10px 12px;
   margin: 15px 0 15px 0;
 }
@@ -628,7 +629,7 @@ a.article-title:hover,
   display: block;
 }
 .article-nav-link-wrap:hover {
-    color: #292929;
+    color: #8a4baf;
 }
 @media screen and (min-width: 840px) {
   .article-nav-link-wrap {
@@ -745,10 +746,10 @@ a.article-title:hover,
 .archive-article-inner {
   padding: 10px 10px 10px 12px;
   margin: 15px 0 15px -2px;
-  border-left: 3px solid transparent;
+  border-left: 5px solid transparent;
 }
 .archive-article-inner:hover {
-  border-left-color: #663399;
+  border-left-color: #8a4baf;
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -799,7 +800,7 @@ a.article-title:hover,
 #page-nav .current {
   color: #fff;
   border-radius: 18px;
-  background-color: #663399;
+  background-color: #8a4baf;
 }
 #page-nav .space {
   color: #ddd;
@@ -818,7 +819,7 @@ a.article-title:hover,
   color: #7a7a7a
 }
 .article-entry pre {
-    border: 1px solid #292929;
+    border: 1px solid #8a4baf;
 }
 .article-entry .highlight {
   margin: 0;
@@ -839,7 +840,7 @@ a.article-title:hover,
 //  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
   font-family: monospace;
   color: #292929;
-  margin: 10px;
+  margin: 5px;
 
 }
 .article-entry code {
