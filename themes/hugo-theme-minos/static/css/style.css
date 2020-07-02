@@ -161,7 +161,7 @@ body {
 }
 .logo-text {
   width: auto;
-  color: #a040e0;
+  color: #663399;
   font-size: 28px;
   font-weight: 700;
   line-height: 57px;
@@ -201,7 +201,7 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-meta a:hover,
 .layout-wrap-inner .category-list a:hover,
 .tag-cloud a:hover {
-  border-bottom-color: #a040e0;
+  border-bottom-color: #663399;
 }
 .article-entry a {
     text-decoration: underline;
@@ -317,7 +317,7 @@ a.article-title:hover,
     font-weight: 600;
 }
 .main-nav-link a:hover, a:active{
-    border-bottom: 2px dotted #a040e0;
+    border-bottom: 2px dotted #663399;
 }
 
 @media screen and (max-width: 839px) {
@@ -524,7 +524,7 @@ a.article-title:hover,
   text-align: left;
   line-height: 1em;
   border-left: 3px solid;
-  border-left-color: #a040e0;
+  border-left-color: #663399;
   padding: 10px 10px 10px 12px;
   margin: 15px 0 15px 0;
 }
@@ -748,7 +748,7 @@ a.article-title:hover,
   border-left: 3px solid transparent;
 }
 .archive-article-inner:hover {
-  border-left-color: #a040e0;
+  border-left-color: #663399;
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -799,7 +799,7 @@ a.article-title:hover,
 #page-nav .current {
   color: #fff;
   border-radius: 18px;
-  background-color: #a040e0;
+  background-color: #663399;
 }
 #page-nav .space {
   color: #ddd;
