@@ -204,7 +204,8 @@ a.article-title:hover,
   border-bottom-color: #a040e0;
 }
 .article-entry a {
-  border-bottom: 2px dotted #a040e0;
+    text-decoration: underline;
+    text-decoration-thickness: 1.5px;
 }
 .article-entry h1 {
   font-size: 2em;
@@ -316,7 +317,7 @@ a.article-title:hover,
     font-weight: 600;
 }
 .main-nav-link a:hover, a:active{
-  border-bottom: 2px dotted #a040e0;
+    border-bottom: 2px dotted #a040e0;
 }
 
 @media screen and (max-width: 839px) {
@@ -518,11 +519,14 @@ a.article-title:hover,
 }
 .article-entry blockquote {
   font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
-  font-size: 0.9em;
+  font-size: 1em;
   color: #7a7a7a;
-  margin: 1.4em 20px;
   text-align: left;
-  line-height: 1.2em;
+  line-height: 1em;
+  border-left: 3px solid;
+  border-left-color: #a040e0;
+  padding: 10px 10px 10px 12px;
+  margin: 15px 0 15px 0;
 }
 .article-entry blockquote footer {
   font-size: 16px;
@@ -572,7 +576,6 @@ a.article-title:hover,
 }
 .article-more-link a {
   color: #939393;
-  border-bottom-color: #939393;
 }
 .article-footer {
   font-size: 0.85em;
@@ -815,7 +818,7 @@ a.article-title:hover,
   color: #7a7a7a
 }
 .article-entry pre {
-    border: 1px solid #a040e0;
+    border: 1px solid #292929;
 }
 .article-entry .highlight {
   margin: 0;
@@ -944,7 +947,7 @@ pre .emphasis {
   color: #a8a8a2;
 }
 pre .bullet,
-pre .blockquote,
+pre .blockqu
 pre .horizontal_rule,
 pre .number,
 pre .regexp,
