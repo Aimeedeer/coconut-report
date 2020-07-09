@@ -16,7 +16,7 @@ I’m Aimee.
 Here are ongoing hacking notes:
 - [IPFS Learning](https://hackmd.io/@aimeez/H15SJ7zJv)
 - [Blockchain Domains](https://hackmd.io/@aimeez/H1mqwtQyw)
-- [What I learned from participating HackFS](https://hackmd.io/@aimeez/HkTJqUXkD)
+- [What I learned from participating in HackFS](https://hackmd.io/@aimeez/HkTJqUXkD)
 
 ### Stuff I love
 - Tech: I love software development 
