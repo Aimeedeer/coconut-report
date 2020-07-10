@@ -1,3 +1,8 @@
+:root {
+    --purplestyle:  #A0A;
+    /* old purple color: #8a4baf;  #A0A;  #6f42c1;*/
+}
+
 html,
 body,
 div,
@@ -161,7 +166,7 @@ body {
 }
 .logo-text {
   width: auto;
-  color: #8a4baf;
+  color: var(--purplestyle);
   font-size: 28px;
   font-weight: 700;
   line-height: 57px;
@@ -201,7 +206,7 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-meta a:hover,
 .layout-wrap-inner .category-list a:hover,
 .tag-cloud a:hover {
-    color: #8a4baf;
+    color: var(--purplestyle);
     /*  border-bottom-color: #8a4baf;*/
 }
 .article-entry a {
@@ -525,7 +530,7 @@ a.article-title:hover,
   text-align: left;
   line-height: 1em;
   border-left: 5px solid;
-  border-left-color: #8a4baf;
+  border-left-color: var(--purplestyle);
   padding: 10px 10px 10px 12px;
   margin: 15px 0 15px 0;
 }
@@ -629,7 +634,7 @@ a.article-title:hover,
   display: block;
 }
 .article-nav-link-wrap:hover {
-    color: #8a4baf;
+    color: var(--purplestyle);
 }
 @media screen and (min-width: 840px) {
   .article-nav-link-wrap {
@@ -749,7 +754,7 @@ a.article-title:hover,
   border-left: 5px solid transparent;
 }
 .archive-article-inner:hover {
-  border-left-color: #8a4baf;
+  border-left-color: var(--purplestyle);
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -800,7 +805,7 @@ a.article-title:hover,
 #page-nav .current {
   color: #fff;
   border-radius: 18px;
-  background-color: #8a4baf;
+  background-color: var(--purplestyle);
 }
 #page-nav .space {
   color: #ddd;
@@ -819,7 +824,7 @@ a.article-title:hover,
   color: #7a7a7a
 }
 .article-entry pre {
-    border: 1px solid #8a4baf;
+    border: 1px solid var(--purplestyle);
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
     border-top-left-radius: 3px;
