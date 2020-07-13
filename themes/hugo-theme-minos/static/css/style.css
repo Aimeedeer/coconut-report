@@ -1,6 +1,11 @@
 :root {
-    --purplestyle:  #A0A;
     /* old purple color: #8a4baf;  #A0A;  #6f42c1;*/
+    --purplestyle:  #A0A;
+    --darkstyle: #292929;
+
+    /* monospace; */
+    /* "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋'; */
+    --fontfamily:  18px 'Merriweather','Georgia',serif;
 }
 
 html,
@@ -72,7 +77,7 @@ td {
 }
 body {
   line-height: 1;
-  color: #292929;
+  color: var(--darkstyle);
   background: #fff;
 }
 ol,
@@ -98,7 +103,7 @@ input,
 button {
   margin: 0;
   padding: 0;
-  font: 16px 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
+  font: var(--fontfamily);
 }
 input::-moz-focus-inner,
 button::-moz-focus-inner {
@@ -120,7 +125,8 @@ body,
 }
 body {
   background: #fff;
-  font: 16px 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
+
+  font: var(--fontfamily);
   -webkit-text-size-adjust: 100%;
 }
 .outer {
@@ -188,7 +194,7 @@ a.article-title,
 .article-entry .gist .gist-file .gist-meta a,
 .layout-wrap-inner .category-list a,
 .tag-cloud a {
-  color: #292929;
+  color: var(--darkstyle);
   text-decoration: none;
 /*  border-bottom: 2px dotted transparent;*/
 }
@@ -211,10 +217,10 @@ a.article-title:hover,
 }
 .article-entry a {
     text-decoration: underline;
-    text-decoration-thickness: 1.5px;
+    text-decoration-style: solid;
 }
 .article-entry h1 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .article-entry h2 {
   font-size: 1.5em;
@@ -310,7 +316,7 @@ a.article-title:hover,
 #main-nav-toggle,
 .search-form-submit {
   float: left;
-  color: #292929;
+  color: var(--darkstyle);
   text-decoration: dotted;
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
@@ -336,7 +342,7 @@ a.article-title:hover,
   display: none;
   font-size: 16px;
   margin-left: -15px;
-  font-family: FontAwesome;
+  font-family: var(--fontfamily); /* FontAwesome; */
 }
 #main-nav-toggle:before {
   content: "\f0c9";
@@ -395,7 +401,7 @@ a.article-title:hover,
   float: left;
   font-size: 14px;
   background: none;
-  color: #292929
+  color: var(--darkstyle);
   outline: none;
 }
 .search-form-input::-webkit-search-results-decoration,
@@ -405,7 +411,7 @@ a.article-title:hover,
 .search-form-submit {
   float: left;
   padding: 0;
-  font-family: FontAwesome;
+  font-family: var(--fontfamily); /*  FontAwesome;*/
   border: none;
   background: none;
   cursor: pointer;
@@ -466,7 +472,7 @@ a.article-title:hover,
   line-height: 1em;
 }
 .article-entry {
-    color: #292929;
+  color: var(--darkstyle);
   padding: 0;
 }
 .article-entry:before,
@@ -524,7 +530,7 @@ a.article-title:hover,
   padding: 10px 0;
 }
 .article-entry blockquote {
-  font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
+  font-family: var(--fontfamily);
   font-size: 1em;
   color: #7a7a7a;
   text-align: left;
@@ -537,7 +543,7 @@ a.article-title:hover,
 .article-entry blockquote footer {
   font-size: 16px;
   margin: 1.4em 0;
-  font-family: font-sans;
+  font-family: var(--fontfamily);
 }
 .article-entry blockquote footer cite:before {
   content: "—";
@@ -602,7 +608,7 @@ a.article-title:hover,
   text-decoration: none;
 }
 .article-footer a:hover {
-  color: #292929;
+  color: var(--darkstyle);
 }
 .article-tag-list-item {
   float: left;
@@ -667,7 +673,7 @@ a.article-title:hover,
   margin-top: 0.5em;
 }
 .article-gallery {
-  background: #292929;
+  background: var(--darkstyle);
   position: relative;
 }
 .article-gallery-photos {
@@ -713,7 +719,7 @@ a.article-title:hover,
   margin-top: 2px;
 }
 .article-toc li a {
-  color: #292929;
+  color: var(--darkstyle);
   text-decoration: none;
 }
 .article-toc li a.active {
@@ -842,16 +848,14 @@ a.article-title:hover,
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
-    color: #292929;
+  color: var(--darkstyle);
   font-size: 0.85em;
 }
 .article-entry pre,
 .article-entry code {
-//  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
-  font-family: monospace;
-  color: #292929;
+  font-family: var(--fontfamily);
+  color: var(--darkstyle);
   margin: 5px;
-
 }
 .article-entry code {
   background: #f2f2f2;
@@ -910,7 +914,7 @@ a.article-title:hover,
 }
 .article-entry .gist .gist-file {
   border: none;
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
+  font-family: var(--fontfamily);
   margin: 0;
 }
 .article-entry .gist .gist-file .gist-data {
@@ -1114,12 +1118,12 @@ pre .php .xml {
 .fancybox-skin {
   padding: 0 !important;
   border-radius: 0;
-  font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
+  font-family: var(--fontfamily);
 }
 .fancybox-skin .fancybox-title .child {
   background: none;
   font-weight: 400;
   font-size: 16px;
-  font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
+  font-family: var(--fontfamily);
   text-shadow: 1px 3px 3px rgba(0,0,0,0.5);
 }
