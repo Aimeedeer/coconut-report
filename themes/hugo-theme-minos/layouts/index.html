@@ -1,6 +1,9 @@
 {{ partial "head.html" . }}
 
 <body>
+  <div id="shareImage" style="display: none;">
+    <img src="{{ $.Site.BaseURL }}/graphic-assets/favicon.png">
+  </div>
     <div id="container">
         {{ partial "header.html" . }}
         <section id="main" class="outer">
