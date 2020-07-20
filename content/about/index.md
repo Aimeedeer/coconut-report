@@ -23,4 +23,4 @@ I’m Aimee.
 
 ### Contact
 - Read my writings in Chinese: [**Aimee 的中文博客**](https://newhacker.org)
-- Mail me: aimeedeer AT gmail DOT com
+- Mail me: aimeez@pm.me
