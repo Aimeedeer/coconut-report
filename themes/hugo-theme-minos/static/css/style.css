@@ -5,7 +5,7 @@
 
     /* monospace; */
     /* "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋'; */
-    --fontfamily:  18px 'Merriweather','Georgia',serif;
+    --fontfamily:  16px 'Merriweather','Georgia',serif;
 }
 
 html,
@@ -854,7 +854,7 @@ a.article-title:hover,
 .article-entry pre,
 .article-entry code {
     font-family: var(--fontfamily);
-    color: var(--purplestyle);
+    color: var(--darkstyle);
     margin: 5px;
 }
 .article-entry code {
