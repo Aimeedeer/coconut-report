@@ -5,7 +5,7 @@ noPostNavigation: true
 hidden: true
 ---
 
-I’m Aimee.
+I’m Aimee Zhu.
 
 - I build products and developer communities
 - I created and am currently maintaining [**Rust in Blockchain**](https://rustinblockchain.org/)
@@ -16,7 +16,7 @@ I’m Aimee.
 - Work-in-progress [hacking notes](https://hackmd.io/@aimeez)
 
 ### Stuff I love
-- Software development
+- Software engineering
 - Terminal Emacs
 - Hand drip coffee: I love Kenya the most
 - Belgian beer and single malt Scotch 
