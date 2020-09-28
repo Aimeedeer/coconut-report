@@ -11,9 +11,10 @@ I’m Aimee Zhu.
 - I created and am currently maintaining [**Rust in Blockchain**](https://rustinblockchain.org/)
 
 ### Things I am hacking on
-- A hackathon project: [The Big Announcement](https://github.com/Aimeedeer/bigannouncement)
+- A hackathon project: [The Big Announcement](https://github.com/Aimeedeer/bigannouncement) 
 - Status report: [Coconut Reports](../../reports)
-- Work-in-progress [hacking notes](https://hackmd.io/@aimeez)
+- Life adventure in [Cocoverse](https://cocoverse.com)
+- [Random essays in Chinese](https://newhacker.org)
 
 ### Stuff I love
 - Software engineering
@@ -22,5 +23,4 @@ I’m Aimee Zhu.
 - Belgian beer and single malt Scotch 
 
 ### Contact
-- Read my writings in Chinese: [**Aimee 的中文博客**](https://newhacker.org)
-- Mail me: aimeez@pm.me
+- aimeez@pm.me
