@@ -1,11 +1,12 @@
 :root {
     /* old purple color: #8a4baf; #76319F;*/
-    --purplestyle: #A0A;
+    --purplestyle: #A0A; 
     --darkstyle: #292929;
 
     /* monospace; */
     /* "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋'; */
     --fontfamily:  16px 'Merriweather','Georgia',serif;
+    --code-font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
 }
 
 html,
@@ -719,7 +720,7 @@ a.article-title:hover,
     margin-top: 2px;
 }
 .article-toc li a {
-    color: var(--darkstyle);
+    color: var(--purplestyle);
     text-decoration: none;
 }
 .article-toc li a.active {
@@ -830,11 +831,11 @@ a.article-title:hover,
     color: #7a7a7a
 }
 .article-entry pre {
-    border: 1px solid var(--purplestyle);
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
+    border: 2px solid var(--purplestyle);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 
 }
 .article-entry .highlight {
@@ -853,9 +854,9 @@ a.article-title:hover,
 }
 .article-entry pre,
 .article-entry code {
-    font-family: var(--fontfamily);
-    color: var(--darkstyle);
-    margin: 5px;
+    font-family: var(--code-font-family);
+    color: #6e6b5e; /*var(--darkstyle);*/
+    padding: 0.5em;
 }
 .article-entry code {
     background: #f2f2f2;
