@@ -1,11 +1,11 @@
 :root {
     /* old purple color: #8a4baf; #76319F;*/
     --purplestyle: #A0A; 
-    --darkstyle: #292929;
+    --darkstyle: #333;
 
     /* monospace; */
-    /* "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋'; */
-    --fontfamily:  16px 'Merriweather','Georgia',serif;
+    --fontfamily: 16px Georgia,times new roman, times, serif;
+    /*--fontfamily:  16px 'Merriweather','Georgia',serif;*/
     --code-font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
 }
 
@@ -498,7 +498,7 @@ a.article-title:hover,
 .article-entry h6 {
     font-weight: 600;
     line-height: 1.4em;
-    margin: 1em 0;
+    margin: 1.5em 0;
 }
 .article-entry ul,
 .article-entry ol,

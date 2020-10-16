@@ -6,25 +6,23 @@ title: Consulting
 ---
 
 Hello!
-
 I am Aimee Zhu. I speak English and Mandarin.
-I do **developer-oriented marketing**.
-For consulting, I give strategies to teams who want to build
-developer communities, and I diagnose and solve problems for them.
+I build products and developer communities.
 
-Please move forward if you are running a blockchain business, 
-and your business is heavily driven by developers.
+If you are running a blockchain project and
+want to build your own developer community but don't know how.
+Please move forward.
 
 
 ## Services
-### Developer Market Strategy
 
-Marketing activities follow the business strategy,
-which defines directions and focuses.
+### # Developer Market Strategy
+
+Business strategy defines directions and focuses.
 Positioning the developer community building
 in your business map is the key step.
 
-We discuss your business and positioning the developer community.
+We start with positioning strategy.
 I help you understand open source developers globally
 and developers in China if it is on your business map.
 I then offer proposals on the micro strategy
@@ -44,7 +42,7 @@ The final execution solutions may or may not contain,
 - Advocating strategy and planning
 - Maintaining playbook
 
-### Content Marketing Strategy
+### # Content Marketing Strategy
 
 Content marketing can not be more important
 than other engaging activities for developers.

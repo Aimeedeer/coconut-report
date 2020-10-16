@@ -5,28 +5,31 @@ omitDate: true
 title: Resume
 ---
 
+
+
+I do [**consulting for blockchain projects**](/consulting)
+to build their developer communities.
+My previous experience is summarized in [**the resume**](/resume).
+
+
+
 Aimee Zhu | aimeez@pm.me
 
 I am passionate about software technologies and business.
 I run [Rust in Blockchain][rib] since 2019, and 
-I am currently exploring the blockchain industry
-by writing code and reading papers.
+I am currently diving into the blockchain industry by programming.
 
-I specialize in developer-oriented marketing, namely,
-developer community building.
-My expertise lies in an in-depth understanding of developers
+I specialize in developer community building, 
+and my expertise lies in an in-depth understanding of developers
 and the tech industry.
+I do [**consulting for blockchain projects**](/consulting)
+to build their developer communities.
 
-[**Consulting**](/consulting) for companies,
-I provide strategies for developer-oriented business.
-I do content marketing and measure the growth of the developer community.
-I engage software developers to business, talents to teams,
-and keep improving the engaging experience.
-
-With previous experience in developing marketing strategies
-and its executions,
-I built strong skills in analytic thinking,
-problems solving, and pushing things forward to achieve business goals.
+Skills:
+- Critical analytical thinking skills
+- Excelled at problem-solving
+- String execution to achieve business goals
+- Writing in English and Chinese
 
 ## Career in Brief
 
@@ -37,7 +40,8 @@ and soon jumped into the coffee business for a while.
 To satisfy my curiosity about technology,
 I went back to the software world again
 by building connections between business and software.
-Since then, I started operating developer-oriented marketing.
+
+Since then, I started operating developer communities.
 
 I began the journey from [SegmentFault][sf],
 a Chinese version of StackOverflow,
