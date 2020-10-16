@@ -27,7 +27,6 @@ RiB has a growing number of contributors since its first issue in June 2019.
 
 [Coconut Reports](../../reports) is where
 I record status updates.
-It started in February 2020.
 It was a weekly report from #0 to #29
 and is a monthly report since #30.
 I also write [essays in Chinese](https://newhacker.org) randomly.
