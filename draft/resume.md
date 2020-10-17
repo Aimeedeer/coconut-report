@@ -5,57 +5,37 @@ omitDate: true
 title: Resume
 ---
 
-
-
-I do [**consulting for blockchain projects**](/consulting)
-to build their developer communities.
-My previous experience is summarized in [**the resume**](/resume).
-
-
-
 Aimee Zhu | aimeez@pm.me
 
-I am passionate about software technologies and business.
+I am passionate about software technologies.
 I run [Rust in Blockchain][rib] since 2019, and 
-I am currently diving into the blockchain industry by programming.
+I am currently programming a blockchain in the Rust language,
+for which, I [blog](/posts) about it step by step.
 
-I specialize in developer community building, 
+Previously, I specialize in developer community building, 
 and my expertise lies in an in-depth understanding of developers
-and the tech industry.
-I do [**consulting for blockchain projects**](/consulting)
-to build their developer communities.
+as well as the tech industry.
 
 Skills:
-- Critical analytical thinking skills
-- Excelled at problem-solving
-- String execution to achieve business goals
+- Critical analytical thinking 
+- Excelled at problem solving
+- Strong execution to achieve business goals
 - Writing in English and Chinese
 
 ## Career in Brief
 
-My career began with software programming.
-I wrote object-oriented languages, C# and Java.
+- 5 years (2015 - 2020) developer community building & marketing managment
+- 4 years (2010 - 2014) coffee business operation
+- 3 years (2007 - 2010) software programming
+
+My career direction seemed disconnected.
+It began with software programming, writing
+object-oriented languages, C# and Java.
 For some reason, I fell in love with Espresso coffee
 and soon jumped into the coffee business for a while.
 To satisfy my curiosity about technology,
 I went back to the software world again
-by building connections between business and software.
-
-Since then, I started operating developer communities.
-
-I began the journey from [SegmentFault][sf],
-a Chinese version of StackOverflow,
-until the latest [Rust in Blockchain][rib],
-which was started as my side project in 2019.
-Rust in Blockchain community grows slow but steady,
-and I learned a lot from building it.
-
-So far, in 2020, I spent most of my time on programming and writing English.
-I share my progress and experiences on
-this new-built website [impl.dev][impl].
-I also blog in [Chinese][cn].
-
-
+by building developer communities for businesses.
 
 ## Experience
 

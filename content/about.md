@@ -8,7 +8,7 @@ title: About Me
 I’m Aimee Zhu.
 I made [Rust in Blockchain][rib] and 
 am currently learning Rust programming.
-
+My previous experience is summerized in [my resume](/resume).
 
 ### Current Hacks
 
@@ -20,9 +20,9 @@ is a tiny Ethereum dapp that I created during [HackFS][hackfs].
 I plan to implement it on other blockchains
 to gain experience building dapps and tooling.
 
-[Rust in Blockchain][rib](RiB) is
+[Rust in Blockchain][rib] is
 a resource center for #Rust and #blockchain developers,
-with a newsletter that publishes each month.
+with [RiB Newsletters][rib-news] that publishes each month.
 RiB has a growing number of contributors since its first issue in June 2019.
 
 [Coconut Reports](../../reports) is where
@@ -32,6 +32,7 @@ and is a monthly report since #30.
 I also write [essays in Chinese](https://newhacker.org) randomly.
 
 [rib]: https://rustinblockchain.org/
+[rib-news]: https://rustinblockchain.org/newsletters/
 [hackfs]: https://hackfs.com/
 
 ### Favorite Stuff
