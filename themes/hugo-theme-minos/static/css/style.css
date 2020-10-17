@@ -3,7 +3,6 @@
     --purplestyle: #A0A; 
     --darkstyle: #333;
 
-    /* monospace; */
     --fontfamily: 16px Georgia,times new roman, times, serif;
     /*--fontfamily:  16px 'Merriweather','Georgia',serif;*/
     --code-font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
@@ -486,7 +485,7 @@ a.article-title:hover,
 }
 .article-entry p,
 .article-entry table {
-    line-height: 1.2em;
+    line-height: 25px;
     margin: 1.4em 0;
     text-align: left;
 }
