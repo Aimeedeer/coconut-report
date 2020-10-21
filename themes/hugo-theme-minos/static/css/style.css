@@ -834,9 +834,9 @@ a.article-title:hover,
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-
+    border-top-right-radius: 10px;*/
 }
+/*
 .article-entry .highlight {
     margin: 0;
     font-size: 14px;
@@ -851,12 +851,14 @@ a.article-title:hover,
     color: var(--darkstyle);
     font-size: 0.85em;
 }
+*/
 .article-entry pre,
 .article-entry code {
     font-family: var(--code-font-family);
-    color: #6e6b5e; /*var(--darkstyle);*/
+    color: var(--darkstyle); /*#6e6b5e; */
     padding: 0.5em;
 }
+
 .article-entry code {
     background: #f2f2f2;
     padding: 0 0.3em;
@@ -869,6 +871,7 @@ a.article-title:hover,
     text-shadow: none;
     padding: 0;
 }
+/*
 .article-entry pre .highlight {
     padding: 0;
 }
@@ -885,6 +888,7 @@ a.article-title:hover,
     border: none;
     padding: 0;
 }
+
 .article-entry .highlight figcaption {
     font-size: 0.85em;
     color: highlight-comment;
@@ -908,6 +912,7 @@ a.article-title:hover,
 .article-entry .highlight .line {
     height: 22.4px;
 }
+*/
 .article-entry .gist {
     margin: 0;
     padding: 15px 0;
@@ -929,11 +934,13 @@ a.article-title:hover,
 .article-entry .gist .gist-file .gist-data .line-data {
     padding: 0 !important;
 }
+/*
 .article-entry .gist .gist-file .highlight {
     margin: 0;
     padding: 0;
     border: none;
 }
+
 .article-entry .gist .gist-file .gist-meta {
     background: highlight-background;
     color: highlight-comment;
@@ -947,7 +954,7 @@ a.article-title:hover,
 }
 .article-entry .gist .gist-file .gist-meta a:hover {
     text-decoration: underline;
-}
+}*/
 pre .tag,
 pre .css .rules,
 pre .css .value,

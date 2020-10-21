@@ -9,6 +9,9 @@ googleAnalytics = "UA-134203640-1"
 
 paginate = 5
 
+pygmentsUseClasses = true
+
+
 
 [params]
 smartToc = true

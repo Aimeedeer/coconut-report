@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <title>{{ .Site.Title }} / {{ .Page.LinkTitle}}</title>
     {{ partial "meta.html" . }}
@@ -13,8 +12,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="{{ "webfonts/ptserif/main.css" | absURL }}" rel='stylesheet' type='text/css'>
     <link href="{{ "webfonts/source-code-pro/main.css" | absURL }}" rel="stylesheet" type="text/css">
-
     <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/syntax.css" | absURL }}">
     {{ range .Site.Params.customCss -}}
     <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}

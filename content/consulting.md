@@ -13,7 +13,6 @@ If you are running a blockchain project and
 want to build your own developer community but don't know how.
 Please move forward.
 
-
 ## Services
 
 ### # Developer Market Strategy

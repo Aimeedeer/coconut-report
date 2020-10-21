@@ -7,41 +7,32 @@ title: Resume
 
 Aimee Zhu | aimeez@pm.me
 
-I am passionate about software technologies.
-I run [Rust in Blockchain][rib] since 2019, and 
-I am currently programming a blockchain in the Rust language,
-for which, I [blog](/posts) about it step by step.
+I am passionate about software technologies
+and mastering in **building developer communities**.
+I run [Rust in Blockchain][rib],
+being involved in the Rust community,
+and built communities for projects in China.
 
-Previously, I specialize in developer community building, 
-and my expertise lies in an in-depth understanding of developers
-as well as the tech industry.
+I do [consulting](/consulting) for business.
+The [showcase](/showcase) page lists
+part of my previous work.
 
-Skills:
-- Critical analytical thinking 
+## Skills
+
+My expertise in building developer communities
+lies in an in-depth understanding of developers and the tech industry. 
+I know how to fill the gap between developers and projects
+by managing the conversations between them.
+
+- Critical analytical thinking and defining problems
 - Excelled at problem solving
-- Strong execution to achieve business goals
-- Writing in English and Chinese
-
-## Career in Brief
-
-- 5 years (2015 - 2020) developer community building & marketing managment
-- 4 years (2010 - 2014) coffee business operation
-- 3 years (2007 - 2010) software programming
-
-My career direction seemed disconnected.
-It began with software programming, writing
-object-oriented languages, C# and Java.
-For some reason, I fell in love with Espresso coffee
-and soon jumped into the coffee business for a while.
-To satisfy my curiosity about technology,
-I went back to the software world again
-by building developer communities for businesses.
+- Build conversations; write in English and Chinese
 
 ## Experience
 
 #### Current Projects | Builder | 2020.04 - Now
 
-**Implementing a PoW Blockchain in Rust**.
+**Implementing a Blockchain in Rust**.
 This is a project for newcomers to learn
 blockchain programming in Rust language.
 I am currently writing code and taking notes for it.
@@ -155,23 +146,24 @@ analysis systems for different police stations.
 
 
 [tba]: https://github.com/Aimeedeer/bigannouncement
-[iflytek]: https://www.iflytek.com
-[nervos]: https://nervos.org
-[sf]: https://segmentfault.com
-[sf-profile]: https://segmentfault.com/u/aimeedeer
 [rib]: https://rustinblockchain.org
 [rib-oneyear]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
 [impl]: https://impl.dev/about
+[blog]: https://impl.dev/posts
+[github]: https://github.com/Aimeedeer
 [rustcon]: https://rustcon.asia
 [post-whyrust]: https://medium.com/@Aimeedeer/why-rust-c877fba0ca94
 [post-rustcon]: https://medium.com/@Aimeedeer/a-close-touch-with-rust-community-4a8507b756d9
-[event-sfdc]: https://beta.segmentfault.com/a/1190000007142490
-[post-hackathon]: https://segmentfault.com/hackathon-2016
+[nervos]: https://nervos.org
 [med]: https://medium.com/@Aimeedeer
 [rustcc]: https://rustcc.cn/
+[sf]: https://segmentfault.com
+[sf-profile]: https://segmentfault.com/u/aimeedeer
+[event-sfdc]: https://beta.segmentfault.com/a/1190000007142490
+[post-hackathon]: https://segmentfault.com/hackathon-2016
 [inq]: https://xie.infoq.cn/
 [zhihu]: https://www.zhihu.com/
 [jianshu]: https://www.jianshu.com/
 [bihu]: https://bihu.com/
 [cn]: https://newhacker.org
-
+[iflytek]: https://www.iflytek.com
