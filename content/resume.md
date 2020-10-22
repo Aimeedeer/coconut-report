@@ -5,28 +5,26 @@ omitDate: true
 title: Resume
 ---
 
-Aimee Zhu | aimeez@pm.me
+Aimee Zhu | aimeez@pm.me | [Website][impl]
 
-I am passionate about software technologies
-and mastering in **building developer communities**.
+**I build developer communities globally**
+for the software and people I love.
 I run [Rust in Blockchain][rib],
-being involved in the Rust community,
-and built communities for projects in China.
+a community focused on [the Rust programming language](https://rust-lang.org),
+and have built multiple communities for projects
+in and out of China.
 
-I do [consulting](/consulting) for business.
-The [showcase](/showcase) page lists
-part of my previous work.
+I do consulting.
+The [showcase](/showcase) demonstrates
+a selection of my previous work.
+
 
 ## Skills
 
-My expertise in building developer communities
-lies in an in-depth understanding of developers and the tech industry. 
-I know how to fill the gap between developers and projects
-by managing the conversations between them.
-
-- Critical analytical thinking and defining problems
-- Excelled at problem solving
-- Build conversations; write in English and Chinese
+- Communicating, and developing communication strategies,
+  across cultural boundaries, in English and Chinese
+- Building tools, workflows, principles for efficiency purposes
+- Programming in Rust and Solidity (starting)
 
 ## Experience
 
@@ -34,115 +32,93 @@ by managing the conversations between them.
 
 **Implementing a Blockchain in Rust**.
 This is a project for newcomers to learn
-blockchain programming in Rust language.
-I am currently writing code and taking notes for it.
+blockchain programming in the Rust language.
+I am currently writing code and blogging about it.
 
 **[The Big Announcement][tba]**.
-This is a tiny project built on Ethereum testnet.
-I gained the first blockchain programming experience from here.
-This project isn't finished yet.
-I plan to build the same functionality dapp on other layer1 blockchains
-to explore the possibility of building dev tools
-base on multiple blockchains.
+This is a tiny dapp built on the Ethereum testnet.
+It is my first blockchain programing project.
 
 #### [Rust in Blockchain][rib] | Creator & Editor | 2019.06 - Now
 
-Rust in Blockchain was created as a monthly newsletter for
+I created Rust in Blockchain as a monthly newsletter
+and a community for
 Rust and blockchain developers.
-It was hosted on WordPress and then is hosting on GitHub
-for community-driven project vision.
-I built the website and keep improving it.
-
-I wrote most of the blog posts, and curated each newsletter.
-I maintain all the relative resources on GitHub
-and network connections.
+I write most of the blog posts and curate each newsletter.
 [RiB is One Year Old!][rib-oneyear] is an overview of
-this newsletter.
+this project.
 
 #### [Nervos Network][nervos] | Developer Relations | 2018.07 - 2020.03
 
 **Building Impressions**.
 I joined Nervos as a business developer for
-its blockchain framework CITA.
-My actual work started with managing funding news distribution
-for Nervos.
-I provided strategic event planning, for instance, 
-several rounds and multiple types of dev meetups, 
-with a growing marketing team.
-Nervos has built pretty good impressions as an innovative tech team
-in several China dev communities
-and new blockchain communities.
+its blockchain framework [CITA](https://github.com/citahub/cita).
+My work started with distrbuting Nervos's fundraising news.
+I provided strategic event planning, partically for dev meetups.	
+Nervos has built a good reputation as an innovative tech team
+in the Chinese blockchain community.
 
 **Content Marketing**.
-I managed content planning and distributing on
+I managed content planning and distribution on
 Chinese dev platforms, such as
 [Rust China][rustcc], [SegmentFault][sf], [InfoQ][inq], etc;
 general community platforms [Zhihu][zhihu], [Jianshu][jianshu];
-and blockchain media platforms, for instance, [Bihu][bihu].
+and blockchain media platforms like [Bihu][bihu].
 
 **Engaging Developers**.
-We deeply engaged with developers in China, and
-built good relationships with Rust European as well as
-Rust China community.
-I managed connections with RustFest, RustChina devs, 
-and Nervos dev team, 
-advocated Nervos blockchain architecture to other Rust devs,
-encouraged devs to build on Nervos.
+I built relationships with Rust developers in Europe and China.
+I advocated Nervos blockchain architecture to other Rust devs,
+and encouraged them to build on Nervos.
 I organized and participated in dev conferences, such as
 RustCon Asia, RustFest Rome & RustFest Barcelona, RubyChina, etc.
 I started Rust in Blockchain meetups and workshops in San Francisco,
 Berlin, and Hangzhou, China.
 
 The latest dev conference is [RustCon Asia 2019][rustcon].
-I wrote blog posts [Why Rust][post-whyrust] 
-and [A Close Encounter with Rust Community][post-rustcon].
+I wrote blog posts, [Why Rust][post-whyrust]
+and [A Close Encounter with Rust Community][post-rustcon],
+about it.
 
 **Recruiting Developers**.
-I naturally moved my role to help recruiting developers
-since I was the only non-dev who  understand developers the most.
-I issued the recruiting process and managed interviews
-with developers.
+After engaging with developers for so long,
+I naturally changed my role to recruiting them.
+I created the recruiting process and managed interviews.
 
 #### HackathonCN | Business Development | 2017.05 - 2018.06
 
-I simply ran hackathons for companies' innovations.
-Part of our clients are: [KONE](https://www.kone.com/),
+I ran hackathons for companies.
+Our clients included: [KONE](https://www.kone.com/),
 [INESA](https://www.inesa-it.com/), Microsoft Shanghai.
 
 #### [SegmentFault][sf] | Marketing Manager | 2015.07 - 2017.05
 
 **Engaging Developers**.
-I built engagement for junior developers and senior developers,
-for developers and software companies.
-I optimized interactive experience between business and talents.
+I built engagement between junior and senior developers,
+and between developers and organizations.
+I optimized the interactions between organizations and talent.
 
 **Developing Business**.
-Expanding connections with software companies and dev teams.
-Brought growing tech sponsors for our dev events.
+I expanded connections and brought
+sponsors to support developer communities.
 
 **Operating Dev Events**.
-I planned and organized dev events such as D-Day meetups,
-conferences [SFDC][event-sfdc],
-and hackathons in China.
-The notable hackathon series is [Anyone Can Code][post-hackathon].
+I planned and organized dev events such as SegmentFault D-Day meetups,
+two [SFDC][event-sfdc] conferences, and hackathons in China.
+The most notable hackathon series is [Anyone Can Code][post-hackathon].
 
 [My profile page][sf-profile] on SegmentFault has some old posts (in Chinese).
 
 #### Excellent Coffee | Founder & General Manager | 2010.08 - 2014.09
 
-I operated the coffee business and the local community
-and built connections between clients.
-
-Technically, I was a principle barista.
+I operated a coffee business and its local community.
+I was also the principle barista and know
+how to make superb coffee in at least two dozen styles.
 
 #### [Iflytek][iflytek] | Software Developer | 2007.07 - 2010.05
 
-I wrote C# and Java for big projects.
-
-Programs for traditional organizations at that time were close-sourced.
-Clients included 
-an office management system for a telecom company,
-analysis systems for different police stations.
+I wrote C# and Java for government projects,
+including an office management system for a telecom company,
+and analytics for law enforcement.
 
 
 [tba]: https://github.com/Aimeedeer/bigannouncement
