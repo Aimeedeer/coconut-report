@@ -30,7 +30,7 @@ Here is a list of published works.
   is an article I wrote for Nervos team.
   In this article, I analyzed many blockchain projects' content marketing
   that is focused on developers.
-  I gave action suggestions at the end of it.
+  I gave actionable suggestions at the end of it.
 - Proposals for Nervos team
   - Nervos Bi-weekly Reports in [Chinese](https://talk.nervos.org/search?q=Nervos%20%E5%8F%8C%E5%91%A8%E6%8A%A5)
     and [English](https://talk.nervos.org/tag/nervos-report).
