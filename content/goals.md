@@ -5,10 +5,21 @@ omitDate: true
 title: Goals
 ---
 
-## Encourage Myself
+## The Next Five Years
 
-- Ask dump questions
-- Share experience just like building an open source project
+- Build a business
+- Build an open source community
+- Build a wiki 
+- Write a cool project in Rust
+- Write a book 
+- Learn Rust, Python, Go and Lisp
+- Live in different countries
+
+## 2024
+
+## 2023
+
+## 2022
 
 ## 2021
 
@@ -27,6 +38,6 @@ title: Goals
   and creating tools for developers
 - [x] Write about programming
 - [x] Write in English and Chinese
-- [x] A nomad
-- [ ] Read 50 books
+- [x] Travel: Thailand, Vietnam, the US
+- [ ] Read 50 books, [goodreads 2020](https://www.goodreads.com/user_challenges/21310627)
 
