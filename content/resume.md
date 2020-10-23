@@ -5,7 +5,7 @@ omitDate: true
 title: Resume
 ---
 
-Aimee Zhu | aimeez@pm.me | [Website][impl]
+Aimee Zhu | aimeez@pm.me | https://impl.dev
 
 **I build developer communities globally**
 for the software and people I love.
@@ -21,9 +21,9 @@ a selection of my previous work.
 
 ## Skills
 
-- Communicating, and developing communication strategies,
+- Developing communication strategies,
   across cultural boundaries, in English and Chinese
-- Building tools, workflows, principles for efficiency purposes
+- Engaging open source contributors
 - Programming in Rust and Solidity (starting)
 
 ## Experience

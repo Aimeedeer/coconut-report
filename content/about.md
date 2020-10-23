@@ -8,7 +8,10 @@ title: About Me
 I’m Aimee Zhu.
 I made [Rust in Blockchain][rib] and 
 am currently learning Rust programming.
-My previous experience is summerized in [my resume](/resume).
+
+I do consulting on building developer communities.
+Here is [my resume](/resume),
+and here is a [showcase](/showcase) of some of my work.
 
 ### Current Hacks
 

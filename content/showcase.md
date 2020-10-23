@@ -16,8 +16,6 @@ I am learning programming, and have built some stuff:
   is my first post that shares my Rust programming experience.
 - [The Big Announcement][tba] 
   is a tiny Ethereum dapp that I created during [HackFS][hackfs].
-  I plan to implement it on other blockchains
-  to gain experience building dapps and tooling.
 - [Rust in Blockchain][rib]
   is a community-contributed resource center for Rust
   and blockchain developers,
@@ -27,25 +25,26 @@ I am learning programming, and have built some stuff:
 ### Communication Strategies
 
 I provide insight and strategy for building developer communities.
-Here is general-purpose information:
+Here is a list of published works.
 - [Thoughts on Developer Community Building][post-dev-thoughts]
   is an article I wrote for Nervos team.
   In this article, I analyzed many blockchain projects' content marketing
   that is focused on developers.
   I gave action suggestions at the end of it.
-- Nervos Bi-weekly Reports in [Chinese](https://talk.nervos.org/search?q=Nervos%20%E5%8F%8C%E5%91%A8%E6%8A%A5)
-  and [English](https://talk.nervos.org/tag/nervos-report).
-  I proposed this idea and helped to operate until it's formed.
-  The content wasn't written by me.
-- [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates).
-  I persuaded the dev team to share development activities
-  with community developers.
-  It also benefits the marketing team by providing detailed information.
-- [CKB Daily](https://ckbdaily.substack.com/) is a dev channel in Chinese,
-  shares Nervos CKB technology in bit-size.
-- [Nervos Forum](https://talk.nervos.org).
-  I insisted on opening a forum for developers, and it helps with
-  generating community content naturally.
+- Proposals for Nervos team
+  - Nervos Bi-weekly Reports in [Chinese](https://talk.nervos.org/search?q=Nervos%20%E5%8F%8C%E5%91%A8%E6%8A%A5)
+    and [English](https://talk.nervos.org/tag/nervos-report).
+    I started it and helped establish its structure.
+  - [Nervos CKB Development Update](https://medium.com/nervosnetwork/tagged/development-updates).
+    I persuaded the dev team to share development activities
+    with community developers.
+    It also benefits the marketing team by providing detailed information.
+  - [CKB Daily](https://ckbdaily.substack.com/),
+    I created this dev channel in Chinese in order to
+    share Nervos CKB technology in bite-size.
+  - [Nervos Forum](https://talk.nervos.org).
+    I proposed this online communication channel
+    It is also a knowledge base for newcomers to learn from.
 
 ### Writings in English and Chinese
 
@@ -53,7 +52,7 @@ Here is general-purpose information:
   - [Contribute to RiB Community](https://rustinblockchain.org/contributing/).
     Contributing guidelines for the RiB community.
   - [RiB is One Year Old!](https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/).
-    A recap of the vision and its growth state.
+    A recap of the project's vision and growth.
   - [How RiB Newsletter is Generated](https://rustinblockchain.org/blogposts/how-rib-newsletter-is-generated/)
     introduces the RiB newsletter's workflow.
   - [Call for Contributors](https://rustinblockchain.org/blogposts/call-for-contributors/).
@@ -63,16 +62,15 @@ Here is general-purpose information:
     the Rust community. I interviewed developers and made this content.
   - [A Close Encounter with Rust Community][post-rustcon]
     is the recap of RustCon Asia.
-    It was very well received and was added to [ReadRust] publication.
+    It was very well received and was added to the [ReadRust](https://readrust.net/) publication.
   - [P2P Introduction](https://github.com/nervosnetwork/tentacle/blob/master/docs/introduction_en.md)
-    is the introduction of the peer-to-peer network that is used in Nervos codebase.
-    I translated from Chinese and helped to edit the original Chinese version.
+    is the introduction of the peer-to-peer network that is used in the Nervos codebase.
+    I translated it from Chinese and helped edit the original Chinese version.
   - [Terry Tai：区块链还处在技术为王的阶段](https://www.jianshu.com/p/576f43b3cd67). This is the first article I wrote for Nervos,
-    talking about the blockchain technology trend.
-    The origin content was recorded from a TechCrunch talk.
+    talking about blockchain technology trends.
 - SegmentFault
   - [专访有赞 CTO 崔玉松：打造中国 SaaS 领域最好的开店软件解决方案](https://segmentfault.com/a/1190000009242473).
-    This is an interview with Youzhan's CTO,
+    This is an interview with Youzan's CTO,
     introducing their software solution for SaaS business in China.
   - [SegmentFault 黑客马拉松获“杭州十大品牌活动”称号](https://segmentfault.com/a/1190000004161826).
     This is an announcement for SegmentFault,
@@ -87,42 +85,31 @@ Here is general-purpose information:
     This is a teambuilding post, written after moving the office.
     It was a way of sharing the company's culture.
   - [SegmentFault 团队七夕趴 - 如何Lu 出一个未来](https://segmentfault.com/a/1190000003408745).
-    We organized a match-making party involved in developers' jargon,
-    sharing how geek the team is.
+    We organized party featuring developers' jargon,
+    sharing how geeky the team is.
 
 ### Event Strategies and Operation
 
 - Nervos
   - [RustCon Asia 2019][rustcon] is the first Rust community conference in China.
     It attracted more than 300 Rust developers in Asia,
-    with speakers came from overseas.
+    with speakers coming from overseas.
     It was a big party for Rust developers in China and for
     projects that adopted or plan to adopt Rust.
     The conference bridged Rust western community and Rust China community.  
-  - Rust in Blockchain meetups, SF, Berlin, Hangzhou, China.
-    This is a series of meetups organized for building global connections,
-    with the common topics on Rust and blockchain. 
-    We connected great developers, and some of them showed up
-    on other events or as podcast guests.  
-  - Rust in Blockchain workshops during SF blockchain week.
-  - [Crypto Wednesday][]
-    was a weekly dev meetup created for Nervos community.
+  - Rust in Blockchain meetups, [SF][rib-sf],
+    [Berlin][rib-berlin], [Hangzhou, China][rib-hz].
+    and [Rust in Blockchain workshops][rib-workshop] during SF blockchain week.
+  - Crypto Wednesday:
+    a weekly dev meetup created for Nervos community.
     It successfully engaged developers and built a good reputation.
-    There were speakers and attendees came from other cities.
-  - Nervos meetup: Greetings around China.
-    After Nervos announced fundraising news,
-    we planned the first round of meetups in many cities in China
-    and started building the community.
-  - Nervos meetup: Beyond Consensus in China and overseas.
-    I proposed many series of meetups with different branding and topics.
-    This one got a wilder reach, and the "Beyond Consensus"
-    is still in use afterward.
+    Some speakers and attendees came from other cities.
+  - Nervos meetup series
+    - "Greetings" around China
+    - "Beyond Consensus" in China and overseas
 - SegmentFault
-  - [Anyone Can Code Hackathon][post-hackathon] in three cities in China.
-  It was the first global level hackathon that is organized by SegmentFault.
-  - SegmentFault conferences [SFDC][event-sfdc] in Beijing and Hangzhou,
-    China. SFDC is SegmentFault's first conference.
-
+  - [Anyone Can Code Hackathon][post-hackathon]
+  - SegmentFault conferences [SFDC][event-sfdc]
 
 
 [tba]: https://github.com/Aimeedeer/bigannouncement
@@ -140,4 +127,9 @@ Here is general-purpose information:
 [event-sfdc]: https://beta.segmentfault.com/a/1190000007142490
 [post-hackathon]: https://segmentfault.com/hackathon-2016
 [cn]: https://newhacker.org
+[hackfs]: https://hackfs.com
 [info-dev]: https://impl.dev/info/where-to-find-developers
+[rib-sf]: https://www.meetup.com/Rust-in-Blockchain-San-Francisco/
+[rib-hz]: https://www.meetup.com/Rust-in-Blockchain-Hangzhou/
+[rib-berlin]: https://www.meetup.com/Rust-in-Blockchain-Berlin
+[rib-workshop]: https://www.eventbrite.com/e/rust-in-blockchain-workshop-day-sfbw19-tickets-75088875849#
