@@ -485,7 +485,7 @@ a.article-title:hover,
 }
 .article-entry p,
 .article-entry table {
-    line-height: 25px;
+    line-height: 1.6em;
     margin: 1.4em 0;
     text-align: left;
 }
