@@ -34,10 +34,15 @@ github = "Aimeedeer"
     weight = -100
     
   [[menu.main]]
+    name = "Study Notes"
+    url = "https://study.impl.dev"
+    weight = -90
+    
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = -90
+    weight = -80
 
 [module]
   [[module.mounts]]
