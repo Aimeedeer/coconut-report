@@ -5,34 +5,34 @@ title: "Test and Define An Issue"
 
 Report A Bug
 
-A couple days ago, I wanted to share a Rust blockchain related video 
-to rib.rs learning page by commenting to it (1 second lazy).
-Then suddenly found out something got wrong,
+A couple days ago, I wanted to share a Rust blockchain-related video 
+to rib.rs learning page by commenting on it (1 second lazy).
+Then suddenly found out something got wrong --
 it didn't show my posted comment at all.
-I tried again but nothing happend.
+I tried again, but nothing happened.
 
 I remembered it worked before in previous newsletters.
-Did I change any code by mistake when pushed the last newsletter?
+Did I change any code by mistake when I pushed the last newsletter?
 But I don't see it from the git log.
 
 I tried on other pages, and it still didn't work.
-Then I tried on my blog site which uses the same plugin.
-It was wired that it only worked on one blog post but
+Then I tried on my blog site, which uses the same plugin.
+It was weird that it only worked on one blog post but
 not other pages.
-It doesn't make sense to me. I was totally confused.
+It doesn't make sense to me. I was perplexed.
 
 
 ## Record Down All Tests
 
 I use [Utterances](https://github.com/utterance/utterances)
-as the hugo commenting plugin.
-It creates an issue on your public GitHub repo if
-someone comments on your website.
-The plugin is put in a template html file that is used 
-in each single article page,
-and it supposes to work exactly the same way.
+as the Hugo commenting plugin.
+It creates an issue on your public GitHub repo
+if someone comments on your website.
+The plugin is put in a template Html file
+used in each article page, and it is
+supposed to work exactly the same way.
 
-I tested the second round,
+I tested the second round
 that started from my already published website
 and then local testing. I commented on
 - [a blog post](https://impl.dev/posts/write-readable-rust-code/), and it worked with my test message
@@ -41,11 +41,10 @@ and then local testing. I commented on
 - [a third blog post](https://impl.dev/reports/2020-09-27/) , and
   nothing happened.
 
-After that, I couldn't understand why it worked on the first blog post
-test. Then I want to a safe testing enviroment without
+After that, I couldn't understand why it worked on the first blog-posttest. Then I want a safe testing environment without
 destroying my origin website code or content.
 
-## Build a Clean Test Enviroment
+## Build A Clean Environment for Test
 
 I created a one-page website that only contains Utterances.
 
@@ -71,22 +70,23 @@ and the published page is
 Since then, I can bravely try anything with this page.
 
 
-## Fine the Issue
+## Find and Report the Issue
 
-I opened browser inspect to see request activies from the console.
-To be clear, I use Brave as default, and sometimes use Firefox.	
+I opened browser inspect to see request activities from the console.
+To be clear, I use Brave as default and sometimes use Firefox.	
 
-The brower console showed me one or two failures and they
-were showed on previouse
+The browser console showed me one or two failures,
+and they were shown on previous
 [Utterances issues](https://github.com/utterance/utterances/issues)
 -- official issues are helpful
 -- which are not my case.
 
 My test diagnosed a 403 request issue,
-and I couldn't solve it by my own.
+and I couldn't solve it on my own.
 So I reported to Utterances official, expecting they can help.
 My issue track is:
 [HTTP/2 403 Forbidden when posting comment](https://github.com/utterance/utterances/issues/418).
 
 To my surprising, the issue got votes and was fixed very soon.
-Interesting to see other people tested on my site too. Cute!
+And it's interesting to see other people tested on my site too. Cute!
+I love actively maintained products, and I think I helped ;)
