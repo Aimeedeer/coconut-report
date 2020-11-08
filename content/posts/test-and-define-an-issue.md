@@ -87,6 +87,11 @@ So I reported to Utterances official, expecting they can help.
 My issue track is:
 [HTTP/2 403 Forbidden when posting comment](https://github.com/utterance/utterances/issues/418).
 
-To my surprising, the issue got votes and was fixed very soon.
-And it's interesting to see other people tested on my site too. Cute!
-I love actively maintained products, and I think I helped ;)
+By reporting the issue,
+I learned how to write an instant-understandable title,
+provide an isolated environment for others to test,
+and an accurate description with error messages.
+
+To my surprising, the issue got upvotes and was fixed very soon.
+I love actively maintained products, and I think I helped.
+It's interesting to see other people tested on my site too. Cute!
