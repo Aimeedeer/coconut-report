@@ -52,7 +52,7 @@ I created a one-page website that only contains Utterances.
 ```html
 <!DOCTYPE html>
 <head>
-  <title> Test Utterances </title>
+  <title>Test Utterances</title>
 </head>
 <P>Test Utterances</p>
 
@@ -65,21 +65,28 @@ I created a one-page website that only contains Utterances.
 </script>
 ```
 
-
-
-
 The repo is [here](https://github.com/Aimeedeer/test-utterances-bot),
 and the published page is
 [Test Utterances](https://aimeedeer.github.io/test-utterances-bot/).
-Now I can bravely try anything here.
+Since then, I can bravely try anything with this page.
+
+
+## Fine the Issue
 
 I opened browser inspect to see request activies from the console.
 To be clear, I use Brave as default, and sometimes use Firefox.	
 
+The brower console showed me one or two failures and they
+were showed on previouse
+[Utterances issues](https://github.com/utterance/utterances/issues)
+-- official issues are helpful
+-- which are not my case.
 
+My test diagnosed a 403 request issue,
+and I couldn't solve it by my own.
+So I reported to Utterances official, expecting they can help.
+My issue track is:
+[HTTP/2 403 Forbidden when posting comment](https://github.com/utterance/utterances/issues/418).
 
-
-
-## Open An Issue
-
-[issue track: HTTP/2 403 Forbidden when posting comment](https://github.com/utterance/utterances/issues/418)
+To my surprising, the issue got votes and was fixed very soon.
+Interesting to see other people tested on my site too. Cute!
