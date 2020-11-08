@@ -1,6 +1,8 @@
 ---
 date: 2020-05-10
 title: Notes on Rules of Thumb
+categories: ["economics"]
+tags: ["note", "economics"]
 ---
 
 This is a reading note. I came across this article when I was looking up economics articles and books. I liked it so much that I immediately read it twice at that moment, and now I want to share it with my friends again.

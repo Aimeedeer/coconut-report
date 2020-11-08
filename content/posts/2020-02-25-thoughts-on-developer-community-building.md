@@ -1,6 +1,8 @@
 ---
 date: 2020-02-25
 title: Thoughts on Developer Community Building
+categories: ["community"]
+tags: ["developer", "community", "content", "strategy"]
 ---
 
 

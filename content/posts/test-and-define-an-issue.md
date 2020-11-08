@@ -1,9 +1,9 @@
 ---
 date: 2020-11-08
 title: "Test and Define An Issue"
+categories: ["programming"]
+tags: ["issue", "test", "utterances"]
 ---
-
-Report A Bug
 
 A couple days ago, I wanted to share a Rust blockchain-related video 
 to rib.rs learning page by commenting on it (1 second lazy).

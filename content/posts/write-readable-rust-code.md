@@ -1,6 +1,8 @@
 ---
 date: 2020-10-16
 title: "Piece by Piece: Write Readable Rust Code"
+categories: ["programming"]
+tags: ["programming", "rust"]
 ---
 
 I am a newbie programmer,

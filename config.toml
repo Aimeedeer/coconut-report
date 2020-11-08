@@ -11,8 +11,6 @@ paginate = 5
 
 pygmentsUseClasses = true
 
-
-
 [params]
 smartToc = true
 katex = true
@@ -48,3 +46,7 @@ github = "Aimeedeer"
   [[module.mounts]]
     source = "content"
     target = "content"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
