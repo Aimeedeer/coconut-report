@@ -539,7 +539,7 @@ a.article-title:hover,
     border-left-color: var(--purplestyle);
     padding: 0 0 0 12px;
     margin: 15px 0 15px 0;
-}
+} 
 .article-entry blockquote footer {
     font-size: 16px;
     margin: 1.4em 0;
@@ -829,14 +829,13 @@ a.article-title:hover,
     font-size: 0.85em;
     color: #7a7a7a
 }
-.article-entry pre {
+/*.article-entry pre {
     border: 2px solid var(--purplestyle);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top-left-radius: 10px;
-    border-top-right-radius: 10px;*/
+    border-top-right-radius: 10px;
 }
-/*
 .article-entry .highlight {
     margin: 0;
     font-size: 14px;
@@ -852,13 +851,13 @@ a.article-title:hover,
     font-size: 0.85em;
 }
 */
+
 .article-entry pre,
 .article-entry code {
     font-family: var(--code-font-family);
     color: var(--darkstyle); /*#6e6b5e; */
     padding: 0.5em;
 }
-
 .article-entry code {
     background: #f2f2f2;
     padding: 0 0.3em;

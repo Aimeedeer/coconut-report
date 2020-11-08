@@ -28,7 +28,7 @@ and the final, improved code.
 In this piece of code, I put the parameters' values directly.
 I thought it was convenient because of fewer lines of code.
 
-```
+```rust
 let new_block = Block::new("01232123", "something")?;
 ```
 
@@ -40,7 +40,7 @@ To make this code more clear,
 we give each parameter a name, showing its meaning.
 Now the code looks like below:
 
-```
+```rust
 let prev_hash = "000001232123";
 let block_data = "something";
 
@@ -72,7 +72,7 @@ if you want to dig more.
 In the example below, I defined each variable for one-time use
 (pay attention to the **code comments**):
 
-```
+```rust
 impl Block {
     pub fn new(prev_hash: String, block_data: String) -> Result<Block> {
 	let new_timestamp = SystemTime::now()
@@ -106,7 +106,7 @@ impl Block {
 Then we use the variable shadowing and
 the code turns out to be this:
 
-```
+```rust
 impl Block {
     pub fn new(prev_hash: String, block_data: String) -> Result<Block> {
 	let new_timestamp = SystemTime::now()
@@ -153,7 +153,7 @@ Rust has special struct initialization syntax that allows
 
 We can make the previous code even better:
 
-```
+```rust
 impl Block {
 
     // Give parameters the same names as `Block` fields
