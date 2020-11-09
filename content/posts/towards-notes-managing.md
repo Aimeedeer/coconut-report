@@ -3,6 +3,7 @@ date: 2020-11-05
 title: "Towards Notes Managing"
 categories: ["emacs"]
 tags: ["tool", "note", "emacs"]
+draft: true    
 ---
 
 I published [another website](https://study.impl.dev) for my public notes.

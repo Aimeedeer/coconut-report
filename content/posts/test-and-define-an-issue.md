@@ -3,6 +3,7 @@ date: 2020-11-08
 title: "Test and Define An Issue"
 categories: ["programming"]
 tags: ["issue", "test", "utterances"]
+draft: true
 ---
 
 A couple days ago, I wanted to share a Rust blockchain-related video 
