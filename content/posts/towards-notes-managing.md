@@ -3,7 +3,7 @@ date: 2020-11-05
 title: "Towards Notes Managing"
 categories: ["emacs"]
 tags: ["tool", "note", "emacs"]
-draft: true    
+draft: true
 ---
 
 I published [another website](https://study.impl.dev) for my public notes.
@@ -44,8 +44,11 @@ and put my notes on it.
 Unlike my blog site [impl.dev](https://impl.dev),
 it uses [ox-hugo](https://ox-hugo.scripter.co/) to convert 
 content from .org files to .md files.
-Then Hugo generates .html pages.
-Org-mode can also publish to .html directly,
+More over, it allows you managing just one single .org file
+for multiple .md files. A powerful feature.
+With these .md files, Hugo generates .html pages for you.
+
+Although, Org-mode can also publish to .html directly,
 but I don't want to deal with CSS or any themes.
 Hugo's massive themes make things much easier.
 
