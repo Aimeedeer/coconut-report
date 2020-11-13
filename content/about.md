@@ -30,8 +30,6 @@ RiB has a growing number of contributors since its first issue in June 2019.
 
 [Coconut Reports](../../reports) is where
 I record status updates.
-It was a weekly report from #0 to #29
-and is a monthly report since #30.
 I also write [essays in Chinese](https://newhacker.org) randomly.
 
 [rib]: https://rustinblockchain.org/
@@ -54,4 +52,4 @@ We experiment with silly ideas there too.
 
 ### Contact
 
-Email is the best: aimeez@pm.me
+Email is the best: aimeez@protonmail.com
