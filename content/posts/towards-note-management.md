@@ -1,18 +1,17 @@
 ---
-date: 2020-11-05
-title: "Towards Notes Managing"
+date: 2020-11-15
+title: "Towards Note Management"
 categories: ["emacs"]
 tags: ["tool", "note", "emacs"]
-draft: true
 ---
 
 I published [another website](https://study.impl.dev) for my public notes.
 As I take more and more notes,
-I want a place to review these notes easily and memorize them.
+I want a place to review and easily memorize them.
 I previously tried Evernote, Hackmd.io, Notion,
 Obsidian, and some others I don't remember.
 
-Since I use Emacs for typing and browser to viewing,
+Since I use Emacs for typing and the browser for viewing,
 I don't want a third window that distracts me.
 So I started to try different Emacs plugins.
 I want an easy-managing workflow of my knowledge base 
@@ -31,7 +30,7 @@ is a nice post, and here is his
 The "Roam" connects all the dots, including thought pieces,
 references, previous notes, and more.
 It might be useful for academic writing, which needs a lot of 
-references and break down opinions.
+references and to break down opinions.
 However, I only used it for about a week and switched back to 
 just org-mode.
 I am more comfortable managing files on myself 
@@ -44,26 +43,26 @@ and put my notes on it.
 Unlike my blog site [impl.dev](https://impl.dev),
 it uses [ox-hugo](https://ox-hugo.scripter.co/) to convert 
 content from .org files to .md files.
-More over, it allows you managing just one single .org file
+Moreover, it allows you to manage just one single .org file
 for multiple .md files. A powerful feature.
 With these .md files, Hugo generates .html pages for you.
 
-Although, Org-mode can also publish to .html directly,
-but I don't want to deal with CSS or any themes.
-Hugo's massive themes make things much easier.
+Org-mode can also publish to .html directly,
+but I am not enthusiastic about dealing with CSS or any themes.
+Hugo's massive selection of themes make things much easier.
 
 
-## Notes Managing
+## Managing Notes
 
 All in all, there is not a tool that fits all.
 Tools themselves don't solve problems for human beings. 
 They are not supposed to automatically do everything for us.
 
 Our knowledge base is deliberately built by ourselves but not tools.
-It presents how we organize files, folders, 
-and the entire database-like content.
+The way we organize files, folders and their contents reflects
+the organization of our minds and thoughts.
 We can't expect to make a well-organized wiki site 
-without clearly thinking of our management style.
+without clearly understanding our own management style.
 Other than that,
 tools can help with accelerating our workflows to achieve efficiency.
 
