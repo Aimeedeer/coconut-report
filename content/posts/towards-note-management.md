@@ -68,4 +68,4 @@ tools can help with accelerating our workflows to achieve efficiency.
 
 There are many posts about how to manage notes.
 I am still learning,
-and I put some of my reading notes [here](https://study.impl.dev/writing/notes-managing/).
+and I put some of my reading notes [here](https://study.impl.dev/writing/note-management/).
