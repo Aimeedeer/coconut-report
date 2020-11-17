@@ -49,7 +49,7 @@ With these .md files, Hugo generates .html pages for you.
 
 Org-mode can also publish to .html directly,
 but I am not enthusiastic about dealing with CSS or any themes.
-Hugo's massive selection of themes make things much easier.
+Hugo's massive selection of themes makes things much easier.
 
 
 ## Managing Notes
