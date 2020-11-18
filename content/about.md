@@ -52,4 +52,4 @@ We experiment with silly ideas there too.
 
 ### Contact
 
-Email is the best: aimeez@protonmail.com
+Email is the best: aimeez@pm.me
