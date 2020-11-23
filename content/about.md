@@ -53,3 +53,43 @@ We experiment with silly ideas there too.
 ### Contact
 
 Email is the best: aimeez@pm.me
+
+### PGP Key
+
+Download from: https://impl.dev/keys/aimeez.asc
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v4.10.8
+Comment: https://openpgpjs.org
+
+xsBNBFxdF2EBCACRhuG9tJbSMGZFyXmLB6SDEyqTlK+vymvdvJkkBKm7P15J
+mawhvc4v1wCFRsKWQXFo10Dyt7bPta2CNya243tugUuD1NU6Azl1u6l+Ic8M
+6KXQ+9uKcbsIiUa2H2J70tPZaBd6JamX0qSEL6VcUUAsHc06OhkT+IRpXruu
+g6mQ3ugcoT7juoxhA5oUpO5VvS7xbzotc0vEBF7LveCGJsE22Phv431cErU2
+26EJt/a2cXZWoWR9wjEzMnzgn7ZDT0ABnqEkyCrBwBYr9HHcQKVq8QGgjxuo
+SGTqPnKqO6HP+bdwgMEpv+hzDUcrrc0MzQ0E2pvsN3llZ9jP/5l7v5/dABEB
+AAHNHSJhaW1lZXpAcG0ubWUiIDxhaW1lZXpAcG0ubWU+wsB1BBABCAAfBQJc
+XRdhBgsJBwgDAgQVCAoCAxYCAQIZAQIbAwIeAQAKCRAxf5j4V1E7npaKB/0a
+WxKOi0uqZOGRHVqm/aaAcblxi7s7GE7JCON79kwytP/QCsowpYTi/FHF+zCR
+Hlv0sSfuhfV0tB9dWjh1wqqyXv51hamc7Fez47gXnCZPgFFBjox02nxLxh6P
+hlkTrGmXfEnYzlOf41AG4A8zzv8lQOdoAwROn50c6tbfwpqYs3RwUVt6qTF2
+/Ce6/2osdPtUYInix2fWkwgY7VWvKt9sNSBScfdOhixE9pIDGEbxhAOW4uYA
+zQlLd+1uha4aMbVFPkOb6LGHC4bi9dUUQAiCyS0l7aZxrzRFf8ycLg1ncbkS
+XsrvAaHOTb8NAWWtilgiy00v8Z+cy1y7XKcSN2yyzsBNBFxdF2EBCACXJRcl
+WH/hclmv2P2M+FN9eOzzv9U/sNJtzGexsrSfkW4h8TxKU9sxO+RsR+T4fG9O
+jfRYFYnwvveY1WITlkENbu8FaZPzcqsJI8yeU6rOUOVuy0ZL8IdW8JTy/yRU
+SkMLIA42n40di5N2sWpg5x5OFYJNbx+HRmWNET0zP/5Xo3Q4EmuyGdg934V9
+936qesKtdCUsvEmb9yz2biJ2T9QW6BRCCMWesi0kYMdqjnn+ClaHt9WNVObn
+TRz9ouudeVU3XfrYS7YicK6N3mQ9YwbZZLPmQPXk6QjkYonISsnmiWdHCjW/
+pXPcs92XbHtcgUdcveME1PFWjueMpdNi29t1ABEBAAHCwF8EGAEIAAkFAlxd
+F2ECGwwACgkQMX+Y+FdRO57FrQf9EdAOCoe6kHOW9Srh7nDt/kSU7j6nfxb5
+0m4OeKCLW+/sgHy2xXGnjzIYVfJwVOM2uCzMq/abjSoRziPkr7rPj3FC5aFl
+S+fUa3K6qXGEO5o1zvMcYotFPPyPqvK7OC4bli3vGGrvV/hRovkJarQ4Nd2b
+2XqcUqBkinW1iXt6PkgjTYSXKVJVeiZCaDXQuow/hCwiFfLsRgeIClR7VRAV
+ydUVmP5oMSZ9OuTNRdajiQ9Umu0fG/2cw0wnL7aSDBeCh3oGABjULuk9hZQP
+WZ/VS6g8DKisedIV7/Qolfm5PzCK/giMsplwS9uDZxtU+409gv5Nyje4sgjJ
+1w8PpRBkuw==
+=6FMY
+-----END PGP PUBLIC KEY BLOCK-----
+```
