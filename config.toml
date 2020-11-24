@@ -31,12 +31,17 @@ github = "Aimeedeer"
     name = "Study Notes"
     url = "https://study.impl.dev"
     weight = -90
+
+  [[menu.main]]
+    name = "rib.rs"
+    url = "https://rib.rs"
+    weight = -80
     
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = -80
+    weight = -70
 
 [module]
   [[module.mounts]]
