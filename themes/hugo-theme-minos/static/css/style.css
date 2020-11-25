@@ -862,7 +862,7 @@ a.article-title:hover,
     padding: 0 0.3em;
 }
 .article-entry pre {
-    padding: 20px;
+    padding: 0;
 }
 .article-entry pre code {
     background: none;
