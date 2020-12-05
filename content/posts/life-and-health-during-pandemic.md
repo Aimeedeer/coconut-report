@@ -2,7 +2,7 @@
 date: 2020-12-05
 title: Life and Health During Pandemic
 categories: ["life", "thoughts"]
-tags: ["life", "covid19"]
+tags: ["life", "covid19", "mental"]
 ---
 
 My partner has stayed in Mayo Clinic for a couple of days, and the hospital
@@ -32,10 +32,25 @@ That's hurting.
 
 Struggling as social-distancing keeps us away from our friends and families.
 Connecting to friends by messaging or video calls are strongly needed.
+Sometimes I can feel that mild anger from friends if
+I didn't reply on time as they expected.
+This also reflects that putting our emotions on others that we can't control
+brings uncertainty that is not our intent.
 
-As personally I am not into messaging, social media or, other means of online social,
-I can sometimes feel that mild anger from friends if
-I didn't reply ontime as they expected.
+Wearing masks and keep a social distance that physically way,
+protecting others and ourselves as a whole turns out to be the new normal.
+People who don't follow the latest social habit could be
+considered to behave irresponsible to society.
+But our mind hasn't proved to get used to the new order that is needed.
+The most robust feature of human beings now is the most vulnerable.
 
-I would read to bored, then watch a movie or choose something I can do it alone quietly.
+It's relatively easy to build a healthy diet and excise habits
+as long as one is self-disciplined.
+Follow clear and basic rules for natural human bodies.
+Such as less fat food, more vegetables, and fruits for
+enough good fat and protein, vitamins, natural fiber,
+minerals, etc.
 
+How to build our new mind model under global restrain?
+Can we customize our needs from some recipes?
+Can we buy any service to keep our mental health?
