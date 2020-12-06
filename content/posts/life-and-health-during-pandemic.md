@@ -1,5 +1,5 @@
 ---
-date: 2020-12-05
+date: 2020-12-06
 title: Life and Health During Pandemic
 categories: ["life", "thoughts"]
 tags: ["life", "covid19", "mental"]
@@ -17,7 +17,7 @@ I can't imagine if we both live alone, like some of my other friends
 currently during the lockdown, what should a person do to deal with
 the physical and mental situations.
 Human beings are social animals. We mostly need other people around
-for the proof of our existance, for comfort, for meanings, or meaningless.
+for the proof of our existence, for comfort, for meanings, or meaningless.
 Even though, as an individual, we seem to have everything we need for daily life,
 but many of us would still feel lonely easily.
 
@@ -30,27 +30,33 @@ The default activities turned to be roaming in social media and then
 feel even more lonely.
 That's hurting.
 
-Struggling as social-distancing keeps us away from our friends and families.
-Connecting to friends by messaging or video calls are strongly needed.
-Sometimes I can feel that mild anger from friends if
-I didn't reply on time as they expected.
-This also reflects that putting our emotions on others that we can't control
-brings uncertainty that is not our intent.
-
 Wearing masks and keep a social distance that physically way,
 protecting others and ourselves as a whole turns out to be the new normal.
 People who don't follow the latest social habit could be
 considered to behave irresponsible to society.
-But our mind hasn't proved to get used to the new order that is needed.
-The most robust feature of human beings now is the most vulnerable.
+Our bodies can be forced by social norms.
+However, our minds haven't proved to get used to the new order that is needed.
+It suggests that once that is the most robust feature of human beings,
+now is the most vulnerable piece.
 
 It's relatively easy to build a healthy diet and excise habits
 as long as one is self-disciplined.
 Follow clear and basic rules for natural human bodies.
-Such as less fat food, more vegetables, and fruits for
+Such as less fat food, more vegetables, and fruits with
 enough good fat and protein, vitamins, natural fiber,
 minerals, etc.
 
+Struggling as social-distancing keeps us away from our friends and families.
+Connecting to others by messaging or video calls are strongly needed.
+Sometimes I can feel that mild anger from friends if
+I didn't reply on time as they expected.
+Putting our emotions on others brings uncertainty that is not our intent.
+It's not a thing we can manage on ourselves like building a new diet habit.
+
 How to build our new mind model under global restrain?
-Can we customize our needs from some recipes?
-Can we buy any service to keep our mental health?
+Can we buy some existing recipes to meet our emotional needs?
+I hope I can help, but I don't know any answers.
+Perhaps, people who figure it out can also provide their suggestions
+and new recipes for the new social good.
+Besides waiting for a solution, if we find our unique positions
+in one or many social networks, aka communities, would be a great start. 

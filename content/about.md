@@ -16,7 +16,8 @@ and here is a [showcase](/showcase) of some of my work.
 ### Current Hacks
 
 I am implementing a blockchain in Rust,
-and I [blog](/posts) about it slowly.
+and I keep [Walnuts Hacklog](https://study.impl.dev/hacking/walnuts/)
+for recording progress.
 
 [The Big Announcement](https://github.com/Aimeedeer/bigannouncement)
 is a tiny Ethereum dapp that I created during [HackFS][hackfs].
@@ -30,6 +31,8 @@ RiB has a growing number of contributors since its first issue in June 2019.
 
 [Coconut Reports](../../reports) is where
 I record status updates.
+[Study Notes](https://study.impl.dev/) is another site for
+my reading notes and hack logs.
 I also write [essays in Chinese](https://newhacker.org) randomly.
 
 [rib]: https://rustinblockchain.org/
