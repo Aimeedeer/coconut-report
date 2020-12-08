@@ -5,6 +5,8 @@ categories: ["life", "thoughts"]
 tags: ["life", "covid19", "mental"]
 ---
 
+![](/graphic-assets/mayoclinic.jpg)
+
 My partner has stayed in Mayo Clinic for a couple of days, and the hospital
 doesn't allow visitors during covid-19.
 It's somehow lucky that the situation has happened in Rochester, MN,
@@ -57,4 +59,3 @@ How can we adjust our mental model for the new normal?
 Can we buy some existing recipes to meet our emotional needs?
 Perhaps, people who figure it out can also provide their suggestions
 and new recipes for the new social good.
-
