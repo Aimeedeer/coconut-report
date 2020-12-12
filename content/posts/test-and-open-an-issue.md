@@ -1,7 +1,7 @@
 ---
 date: 2020-11-15
 title: "Test and Open An Issue"
-categories: ["programming"]
+categories: ["hacks"]
 tags: ["issue", "test", "utterances"]
 ---
 

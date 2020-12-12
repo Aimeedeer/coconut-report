@@ -1,7 +1,7 @@
 ---
 date: 2020-10-16
 title: "Piece by Piece: Write Readable Rust Code"
-categories: ["programming"]
+categories: ["hacks"]
 tags: ["programming", "rust"]
 ---
 

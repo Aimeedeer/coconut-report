@@ -1,7 +1,7 @@
 ---
 date: 2020-11-15
 title: "Towards Note Management"
-categories: ["emacs"]
+categories: ["hacks"]
 tags: ["tool", "note", "emacs"]
 ---
 

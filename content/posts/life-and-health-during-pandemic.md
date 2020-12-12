@@ -1,8 +1,8 @@
 ---
 date: 2020-12-06
 title: Life and Health During Pandemic
-categories: ["life", "thoughts"]
-tags: ["life", "covid19", "mental"]
+categories: ["life"]
+tags: ["covid19", "mental", "US"]
 ---
 
 ![](/graphic-assets/mayoclinic.jpg)

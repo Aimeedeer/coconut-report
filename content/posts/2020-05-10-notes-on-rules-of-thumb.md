@@ -1,7 +1,7 @@
 ---
 date: 2020-05-10
 title: Notes on Rules of Thumb
-categories: ["economics"]
+categories: ["life"]
 tags: ["note", "economics"]
 ---
 
