@@ -14,24 +14,24 @@ that we do not accept contributions from other channels
 except for GitHub.
 Some non-hackers, either co-founders or marketers,
 started to use GitHub for submitting PRs,
-and RiB has recieved some not-awesome PRs.
+and RiB has received some not-awesome PRs.
 
 This reminds me of my first time (about two years ago
 as I can remember) uses GitHub, and I could only
 use its website for editing.
-At that time, I didn't know I need to fork the original repo
-to my account, and edit it, then push my changes back to
+At that time, I didn't know I needed to fork the original repo
+to my account, edited it, then pushed my changes back to
 the original repository (repo for the below).
-I thought I could and I thought I did edit the original repo.
+I thought I could, and I felt I did edit the original repo.
 Not to mention how to write a decent commit message.
 How naive.
 
 This post is for non-developers like me who want to participate
 in developers' conversations via GitHub.
-After reading this post, you will be able to interacte with
+After reading this post, you will be able to interact with
 GitHub by creating a repo and committing to it.
-You will fork a repo, subbmit a PR and file an issue to
-other one's repo. In this case, it will be an example repo
+You will fork a repo, submit a PR and file an issue to
+another one's repo. In this case, it will be an example project
 that I created for you to play around.
 
 Don't panic. That's fine to submit a strange PR at the first
@@ -42,52 +42,48 @@ Let's rock!
 
 ## No Joke, We Only Do It in The Hacker's Way
 
-The main and most obviouse differences between hackers
-and non-hackers are how do they interate with their computers.
-Non-hackers, which are most of computer users, always need
-mouses to help clicking things on their screens,
+The primary and most obvious differences between hackers
+and non-hackers are how do they interact with their computers.
+Non-hackers, which are most computer users, always need
+a mouse to help clicking things on their screens,
 while hackers even don't need a mouse.
 Hackers can do almost everything with command lines.
 
 ### Command Lines Kickoff
 
-Before we use command lines,
-we need some clicks to open the terminal to allow us
-using command lines in it.
-The terminal is the entry for recieving
-our input and showing us the output from our computers.
+Before we use command lines, we need some clicks to open the terminal,
+the entry for receiving our input and showing us the output from our computers.
 
 If you don't know how to open your terminal,
 just Google it.
-Google things befor asking others is the first step
+Google things before asking others is the first step
 to (pretend to) be a hacker.
 You can also choose [DuckDuckGo](https://duckduckgo.com/)
-as the alternative search engine.
+as an alternative search engine.
 
-What we need here is to go to your determind directory
-and create a new folder for your project.
+We need to go to your determined directory and create a new folder for your project.
 
 Type `ls`, and it will show you a list of files and folders
 in the current directory.
 `cd` + space + the folder you want to jump in, and
-`cd ..` to jump back to higher level of current directory.
+`cd ..` to jump back to a higher level of the current directory.
 Try to play with these three commands.
 
 Then we go to a folder, for example, documents, typing `cd documents`
 and create a test project, for instance, `my-test-project`,
 with the command `mkdir my-test-project`.
-Typing `ls` and you will see you have a new folder in current
+Typing `ls`, and you will see you have a new folder in the current
 directory. Then type `cd my-test-project` to go inside.
 
 There is a trick that you can type `cd my-t` and kick your TAB key,
-it will be automatically fullfilled. Sometimes you need to type
+it will be automatically fulfilled. Sometimes you need to type
 more characters if there are similar filenames.
 
-Note that we don't recommand naming a file or foler with space,
-because it creates complexity for the system, that
-your operating system, other programs' systems and scripts 
-deal with filenames which containing with space in multiple ways.
-See simple explainations here:
+Note that we don't recommend naming a file or folder with space
+because it creates complexity for the system.
+Your operating system, other programs' systems,
+and scripts deal with filenames that contain space in multiple ways.
+See simple explaination here:
 [Is space not allowed in a filename?](https://unix.stackexchange.com/questions/148043/is-space-not-allowed-in-a-filename).
 
 The Network Working Group also mentioned it in [URL specifications](https://www.ietf.org/rfc/rfc1738.txt):
@@ -111,12 +107,12 @@ The Network Working Group also mentioned it in [URL specifications](https://www.
 
 With the new-created folder, we can play around with our tests in it.
 The next step is installing [Git],
-a version controll system for your files (and [more]).
+a version control system for your files (and [more]).
 With Git, you will be able to actively manage your file changes.
 
 #### Just Git It
 
-In this step, I use MacOS as the example.
+In this step, I use MacOS as an example.
 Follow the official [Download for macOS],
 and then you probably need to install [homebrew] first,
 which helps a lot with package managing in your operating system.
@@ -130,21 +126,18 @@ to install homebrew:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-
-After succussefully intalling homebrew, you can
-use `brew install <some-package-name>` for most of packages
-that you need on MacOS.
+After successfully installing homebrew, you can
+use `brew install <some-package-name>` for most packages
+you need on MacOS.
 For example, we use `brew install git` to install Git.
 
-Once you have Git installed, we can play with it for a bit.
-Ready?
-Let's move forward, and make sure your are in the `my-test-project`
-folder.
+Once you have Git installed, we can play with it for a bit. Ready?
+Let's move forward, and make sure you are in the `my-test-project` folder.
 
-Type `git init`, which normally you can see from documentations
+Type `git init`, which you usually can see from documentations
 with a `$` sign.
-It's the sign that indicates this line is the input commands.
-By contrast, thoese lines without a `$` sign suggest that
+It's the sign that indicates this line is the input command.
+By contrast, these lines without a `$` sign suggest that
 they are outputs.
 I remembered I even tried typing `$` in my terminal before :)
 
@@ -152,15 +145,15 @@ I remembered I even tried typing `$` in my terminal before :)
 $ git init
 ```
 
-This command just shows its meaning that to initialize a project
-with Git system,
+This command just shows its meaning to initialize a project
+with the Git system,
 and the terminal will soon show you the output.
 
 ```
 $ git init
 Initialized empty Git repository in /<your directory>/my-test-project/.git/
 ```
-After that you can simple use `git log` to see the version history.
+After that, you can simply use `git log` to see the version history.
 Let's try:
 ```
 $ git log
@@ -168,12 +161,12 @@ fatal: your current branch 'master' does not have any commits yet
 ```
 
 As the terminal shows that the `'master'` is the default branch.
-Branches are very useful for collaborating with others on the
-same project and also keep the available code running well.
+Branches are useful for collaborating with others on the
+same project and keeping the available code running well.
 In our starting case, we just use the default config.
 
 Let's add a file in this folder first.
-In MacOS, we use `echo` + content + `>` + the file name to
+In the macOS, we use `echo` + content + `>` + the file name to
 create it.
 ```
 $ echo This is the first doc file > firstone.doc
@@ -182,14 +175,14 @@ firstone.doc
 $ cat firstone.doc 
 This is the first doc file
 ```
-By the way, it's a good habit to check states often as to verify
+By the way, it's a good habit to check states often to verify
 our commands worked or not.
-In this example, I use `ls` to check if the file has been created,
+In this example, I use `ls` to check whether the file is created
 and `cat` for printing the content in that file.
 You can use `git status` frequently to check your files' states.
 
 Ok, now we have some updates in this folder, and let's
-check with our Git to see what happend there:
+check with our Git to see what happened there:
 ```
 $ git status
 On branch master
@@ -218,7 +211,7 @@ Changes to be committed:
 ```
 
 You can use `git add` + <your file> one by one if you have more files.
-You can also use `git add .` to add **all** the files under current folder.
+You can also use `git add .` to add **all** the files under the current folder.
 Then we can commit, with a clear message to tag with this version,
 which we use `-m"<your message>"` as the argument.
 ```
@@ -228,7 +221,7 @@ $ git commit -m"add my firstone file"
  create mode 100644 firstone.doc
 ```
 Done!
-Now our file is totally under the version control.
+Now our file is totally under version control.
 We made it!
 ```
 $ git status
@@ -237,8 +230,8 @@ nothing to commit, working tree clean
 ```
 
 That's the whole thing for the first step with Git.
-You can keep playing around with these commands and
-to create as well as commit more stuff to Git.
+You can keep playing around with these commands,
+create and commit more stuff to Git.
 
 More command lines for managing files or more about Git,
 just Google it! You can always figure it out.
@@ -262,7 +255,7 @@ Other links:
 The other two are [GitLab] and [Bitbucket].
 In this post, we use GitHub as our service.
 
-GitHub provides great tutorials to help newcomers getting started.
+GitHub provides excellent tutorials to help newcomers get started.
 _TODO_ links.
 
 
@@ -271,19 +264,16 @@ _TODO_ links.
 git push
 ```
 
+For non-developers, there is no must-have skill to use GitHub.
+Still, if you ever want to build or are working on building
+an open-source developer community,
+you would think about using GitHub to communicate with your developers.
 
-For non-developers, there are not a must-have skill
-to use GitHub, but if you ever want to build or are working
-on building an open source developer community,
-you would think about using GitHub to communicate with
-your developers.
-
-There are two main advantages by learning GitHub:
-- Understand developers' mindset and the open source culture
+There are two main advantages of learning GitHub:
+- Understand the developers' mindset and the open-source culture
 - Win respect from developers by building your own skills
 
-
-GitHub creates their own command lines: [GitHub CLI].
+GitHub creates its own command lines: [GitHub CLI].
 
 [Git]: https://git-scm.com/
 [more]: https://git-scm.com/book/en/v2
@@ -306,9 +296,9 @@ for dealing with GitHub.
 
 ### On the webpage
 
-Which we don't recommend because we don't want to be not-professinal.
-But if you only need to edit a typo, it maybe resonable convenient
-to do it directly on that page you have already reading.
+Which we don't recommend because we don't want to be not-professional.
+But if you only need to edit a typo, it may be reasonably convenient
+to do it directly on that page you have already read.
 
 ### From terminal
 
@@ -317,44 +307,44 @@ Git clone
 
 ## What if I want to edit multiple files at the same time
 
-Editor recommend: Atom
+Editor recommends: Atom
 - [ ] add atom link
 
 
 ## Conclusion / Final
 
-Open source maintainers mostly are happy to recieve contributions
-if there are not too many requirements to them.
-But contributors still creat new works for maintainers
+Open source maintainers are mostly happy to receive contributions
+if there are not too many requirements for them.
+But contributors still create new works for maintainers
 even though contributors themselves may not feel so.
 
-
-As a commen sense that developers generally do not like
-marketers because they don't want to be pushed with
-hype or not informative messages, that content only
-marketers themselves care.
-For content suggestions, I wrote [Thoughts on Developer Community Building](/posts/2020-02-25-thoughts-on-developer-community-building)
+In common sense, developers generally do not like marketers because
+they don't want to be pushed with hype or not informative messages
+that only provide marketers themselves care.
+For content suggestions, I wrote
+[Thoughts on Developer Community Building](/posts/2020-02-25-thoughts-on-developer-community-building)
 earlier this year.
 
 
 How I use the hacks in RiB:
 
-When I started RiB, I asked questions to my developer friends,
+
+When I started RiB, I asked my developer friends questions
 about how to keep it open to anyone to edit.
-Some suggested GitHub (thanks for beliving in me),
-some other suggested Wordpress for publishing because learning
-GitHub, and Git will be too complex to me.
-But I did want the content to be open to anyone from the day
-it was created.
-So I compromised to use GitHub repo for keep the original
-content, and move the final posts to Wordpress for publishing.
-It worked well for a while until someday
+Some suggested GitHub (thanks for believing in me),
+some others suggested WordPress for publishing because
+learning GitHub and Git will be too complicated.
+But I did want the content to be open to anyone
+from the day it was created.
+So I compromised to use GitHub repo to keep
+the original content and move the final posts to
+WordPress for publishing. It worked well for a while until someday,
 I realized that I don't want to be a middle man to
 involve in any new chances for potential mistakes.
 
 As you can see that nowadays, the RiB newsletter is
 hosting on GitHub with direct and visible contributions.
 Thanks to GitHub!
-I expect someday it will turn to be a community managed
+I expect someday it will turn to be a community-managed
 newsletter as well as the website.
 
