@@ -2,7 +2,8 @@
 date: 2020-12-12
 title: How to Pretend to Be A Hacker
 categories: ["hacks"]
-tags: ["life", "covid19", "mental"]
+tags: ["hacker", "git", "commandline"]
+draft: true
 ---
 
 - title1: How to Pretend to Be A Hacker
@@ -40,7 +41,7 @@ Let's rock!
 
 [RiB]: https://rustinblockchain.org
 
-## No Joke, We Only Do It in The Hacker's Way
+**No joke, we only do it in the hacker's way!**
 
 The primary and most obvious differences between hackers
 and non-hackers are how do they interact with their computers.
@@ -49,7 +50,7 @@ a mouse to help clicking things on their screens,
 while hackers even don't need a mouse.
 Hackers can do almost everything with command lines.
 
-### Command Lines Kickoff
+## Command Lines Kickoff
 
 Before we use command lines, we need some clicks to open the terminal,
 the entry for receiving our input and showing us the output from our computers.
@@ -103,14 +104,14 @@ The Network Working Group also mentioned it in [URL specifications](https://www.
    "[", "]", and "`".
 
 
-### Git Matters, So Does GitHub
+## Git Matters, So Does GitHub
 
 With the new-created folder, we can play around with our tests in it.
 The next step is installing [Git],
 a version control system for your files (and [more]).
 With Git, you will be able to actively manage your file changes.
 
-#### Just Git It
+## Just Git It
 
 In this step, I use MacOS as an example.
 Follow the official [Download for macOS],
@@ -248,7 +249,7 @@ Other links:
 - Git book: https://git-scm.com/book/en/v2
 
 
-#### Collaborate on GitHub
+## Collaborate on GitHub
 
 
 [GitHub] is one of the most popular repo hosting services.
@@ -257,7 +258,6 @@ In this post, we use GitHub as our service.
 
 GitHub provides excellent tutorials to help newcomers get started.
 _TODO_ links.
-
 
 
 ```
@@ -283,7 +283,7 @@ GitHub creates its own command lines: [GitHub CLI].
 [Bitbucket]: https://bitbucket.org/
 [GitHub CLI]: https://cli.github.com/manual/
 
-### Something
+## Something
 
 We can add some source to make your skills
 look delicious that impresses developers.
