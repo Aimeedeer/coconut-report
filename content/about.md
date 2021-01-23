@@ -6,8 +6,7 @@ title: About Me
 ---
 
 I’m Aimee Zhu.
-I made [Rust in Blockchain][rib] and 
-am currently learning Rust programming.
+I run [Rust in Blockchain (rib.rs)][rib].
 
 I do consulting on building developer communities.
 Here is [my resume](/resume),
@@ -15,26 +14,20 @@ and here is a [showcase](/showcase) of some of my work.
 
 ### Current Hacks
 
-I am implementing a blockchain in Rust,
-and I keep [Walnuts Hacklog](https://study.impl.dev/hacking/walnuts/)
-for recording progress.
-
-[The Big Announcement](https://github.com/Aimeedeer/bigannouncement)
-is a tiny Ethereum dapp that I created during [HackFS][hackfs].
-I plan to implement it on other blockchains
-to gain experience building dapps and tooling.
-
 [Rust in Blockchain][rib] is
-a resource center for #Rust and #blockchain developers,
+a resource center for Rust and blockchain developers,
 with [RiB Newsletters][rib-news] that publishes each month.
 RiB has a growing number of contributors since its first issue in June 2019.
 
-[Coconut Reports](../../reports) is where
-I record status updates.
-[Study Notes](https://study.impl.dev/) is another site for
-my reading notes and hack logs.
-I also write [essays in Chinese](https://newhacker.org) randomly.
+[The Big Announcement](https://github.com/Aimeedeer/bigannouncement)
+is a tiny Ethereum dapp that I created during [HackFS][hackfs].
+I implement its smart contract on other blockchains
+to gain experience building dapps and tooling.
 
+My daily hacks are on [GitHub] and [Study Notes](https://study.impl.dev/)
+I write [essays in Chinese](https://newhacker.org) randomly.
+
+[GitHub]: https://github.com/aimeedeer
 [rib]: https://rustinblockchain.org/
 [rib-news]: https://rustinblockchain.org/newsletters/
 [hackfs]: https://hackfs.com/
