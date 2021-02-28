@@ -24,7 +24,7 @@ is a tiny Ethereum dapp that I created during [HackFS][hackfs].
 I implement its smart contract on other blockchains
 to gain experience building dapps and tooling.
 
-My daily hacks are on [GitHub] and [Study Notes](https://study.impl.dev/)
+My daily hacks are on [GitHub] and [Study Notes](https://study.impl.dev/).
 I write [essays in Chinese](https://newhacker.org) randomly.
 
 [GitHub]: https://github.com/aimeedeer
