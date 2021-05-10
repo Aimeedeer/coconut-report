@@ -12,14 +12,18 @@ I do consulting on building developer communities.
 Here is [my resume](/resume),
 and here is a [showcase](/showcase) of some of my work.
 
-### Current Hacks
+### Recent Hacks
 
-[Rust in Blockchain][rib] is
-a resource center for Rust and blockchain developers,
+[Rust in Blockchain][rib]
+is a resource center for Rust and blockchain developers,
 with [RiB Newsletters][rib-news] that publishes each month.
 RiB has a growing number of contributors since its first issue in June 2019.
 
-[The Big Announcement](https://github.com/Aimeedeer/bigannouncement)
+[The Captain's Ascent][contract-game]
+is a game of smart contract programming,
+for people to learn smart contract programming in Rust.
+
+[The Big Announcement][tba]
 is a tiny Ethereum dapp that I created during [HackFS][hackfs].
 I implement its smart contract on other blockchains
 to gain experience building dapps and tooling.
@@ -31,6 +35,8 @@ I write [essays in Chinese](https://newhacker.org) randomly.
 [rib]: https://rustinblockchain.org/
 [rib-news]: https://rustinblockchain.org/newsletters/
 [hackfs]: https://hackfs.com/
+[tba]: https://github.com/Aimeedeer/bigannouncement
+[contract-game]: https://github.com/brson/contract-game
 
 ### Favorite Stuff
 

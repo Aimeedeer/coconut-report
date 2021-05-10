@@ -14,30 +14,24 @@ a community focused on [the Rust programming language](https://rust-lang.org),
 and have built multiple communities for projects
 in and out of China.
 
-I do consulting.
-The [showcase](/showcase) demonstrates
-a selection of my previous work.
-
-
 ## Skills
 
+- Rust programming in the crypto field
+- Engaging open source contributors
 - Developing communication strategies,
   across cultural boundaries, in English and Chinese
-- Engaging open source contributors
-- Programming in Rust and Solidity (starting)
 
 ## Experience
 
 #### Current Projects | Builder | 2020.04 - Now
 
-**Implementing a Blockchain in Rust**.
-This is a project for newcomers to learn
-blockchain programming in the Rust language.
-I am currently writing code and blogging about it.
+**[The Captain's Ascent][contract-game]**.
+A game of smart contract programming,
+for people to learn smart contract programming in Rust.
 
 **[The Big Announcement][tba]**.
 This is a tiny dapp built on the Ethereum testnet.
-It is my first blockchain programing project.
+It is my first blockchain programming project.
 
 #### [Rust in Blockchain][rib] | Creator & Editor | 2019.06 - Now
 
@@ -122,6 +116,7 @@ and analytics for law enforcement.
 
 
 [tba]: https://github.com/Aimeedeer/bigannouncement
+[contract-game]: https://github.com/brson/contract-game
 [rib]: https://rustinblockchain.org
 [rib-oneyear]: https://rustinblockchain.org/blogposts/2020-07-30-rib-is-one-year-old/
 [impl]: https://impl.dev/about
