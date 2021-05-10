@@ -47,8 +47,8 @@ this project.
 **Building Impressions**.
 I joined Nervos as a business developer for
 its blockchain framework [CITA](https://github.com/citahub/cita).
-My work started with distrbuting Nervos's fundraising news.
-I provided strategic event planning, partically for dev meetups.	
+My work started with distributing Nervos's fundraising news.
+I provided strategic event planning, particularly for dev meetups.	
 Nervos has built a good reputation as an innovative tech team
 in the Chinese blockchain community.
 
@@ -105,7 +105,7 @@ The most notable hackathon series is [Anyone Can Code][post-hackathon].
 #### Excellent Coffee | Founder & General Manager | 2010.08 - 2014.09
 
 I operated a coffee business and its local community.
-I was also the principle barista and know
+I was also the principal barista and know
 how to make superb coffee in at least two dozen styles.
 
 #### [Iflytek][iflytek] | Software Developer | 2007.07 - 2010.05
