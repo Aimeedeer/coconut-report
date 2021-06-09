@@ -6,9 +6,9 @@ title: About Me
 ---
 
 I’m Aimee Zhu.
-I run [Rust in Blockchain (rib.rs)][rib].
+I write Rust programs and run [Rust in Blockchain (rib.rs)][rib].
 
-I do consulting on building developer communities.
+Sometimes I do consulting on building developer communities.
 Here is [my resume](/resume),
 and here is a [showcase](/showcase) of some of my work.
 
@@ -19,24 +19,13 @@ is a resource center for Rust and blockchain developers,
 with [RiB Newsletters][rib-news] that publishes each month.
 RiB has a growing number of contributors since its first issue in June 2019.
 
-[The Captain's Ascent][contract-game]
-is a game of smart contract programming,
-for people to learn smart contract programming in Rust.
+[Treasure Tree][tt]
+is a real-world treasure hunt game where the treasures are represented
+as QR codes in the physical world, and NFTs in the virtual.
 
-[The Big Announcement][tba]
-is a tiny Ethereum dapp that I created during [HackFS][hackfs].
-I implement its smart contract on other blockchains
-to gain experience building dapps and tooling.
-
-My daily hacks are on [GitHub] and [Study Notes](https://study.impl.dev/).
-I write [essays in Chinese](https://newhacker.org) randomly.
-
-[GitHub]: https://github.com/aimeedeer
 [rib]: https://rustinblockchain.org/
 [rib-news]: https://rustinblockchain.org/newsletters/
-[hackfs]: https://hackfs.com/
-[tba]: https://github.com/Aimeedeer/bigannouncement
-[contract-game]: https://github.com/brson/contract-game
+[tt]: https://treasuretree.org
 
 ### Favorite Stuff
 
@@ -46,7 +35,8 @@ The Org-mode is powerful.
 
 I love hand drip Kenya coffee and always try to find new, fresh
 roasted coffee beans wherever I travel and stay.
-Belgian beer and single malt Scotch are my favorite alcohol.
+Belgian beer and single malt Scotch used to be my favorite alcohol
+and I am into pilsner lately.
 
 [Cocoverse](https://cocoverse.com) is the adventure space
 where my partner and I record our shared experiences.
