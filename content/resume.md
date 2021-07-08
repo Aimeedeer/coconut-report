@@ -23,7 +23,7 @@ in and out of China.
 
 ## Experience
 
-#### Projects | Builder | 2020.04 - Now
+#### Projects | Programmer | 2020.04 - Now
 
 **[Treasure Tree][tt]**.
 A real-world treasure hunt game where the treasures are represented
