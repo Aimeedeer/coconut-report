@@ -8,39 +8,21 @@ title: About Me
 I’m Aimee Zhu.
 I write Rust programs and run [Rust in Blockchain (rib.rs)][rib].
 
-Sometimes I do consulting on building developer communities.
-Here is [my resume](/resume),
-and here is a [showcase](/showcase) of some of my work.
+Check [my resume](/resume) for detailed works.
 
-### Recent Hacks
-
-[Rust in Blockchain][rib]
-is a resource center for Rust and blockchain developers,
-with [RiB Newsletters][rib-news] that publishes each month.
-RiB has a growing number of contributors since its first issue in June 2019.
-
-[Treasure Tree][tt]
-is a real-world treasure hunt game where the treasures are represented
-as QR codes in the physical world, and NFTs in the virtual.
-
-[rib]: https://rustinblockchain.org/
-[rib-news]: https://rustinblockchain.org/newsletters/
-[tt]: https://treasuretree.org
+[rib]: https://rustinblockchain.org
 
 ### Favorite Stuff
 
 I use terminal Emacs for almost everything on my laptop,
 including programming and writing. 
-The Org-mode is powerful.
 
-I love hand drip Kenya coffee and always try to find new, fresh
-roasted coffee beans wherever I travel and stay.
+I love having hand drip Kenya coffee every morning.
 Belgian beer and single malt Scotch used to be my favorite alcohol
 and I am into pilsner lately.
 
 [Cocoverse](https://cocoverse.com) is the adventure space
 where my partner and I record our shared experiences.
-We experiment with silly ideas there too.
 
 ### Contact
 

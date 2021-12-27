@@ -7,12 +7,11 @@ title: Resume
 
 Aimee Zhu | aimeez@pm.me | https://impl.dev
 
-**I build developer communities globally**
-for the software and people I love.
-I run [Rust in Blockchain][rib],
-a community focused on [the Rust programming language](https://rust-lang.org),
-and have built multiple communities for projects
-in and out of China.
+
+I build blockchain projects in Rust and I have been running [Rust in
+Blockchain][rib] since 2019. For years earlier, I build developer
+communities globally for the software and people I love.
+
 
 ## Skills
 
@@ -25,26 +24,28 @@ in and out of China.
 
 #### Projects | Programmer | 2020.04 - Now
 
+**[RealTPS][realtps]**
+measures the current number of transactions per second
+committed by various blockchains.
+
 **[Treasure Tree][tt]**.
-A real-world treasure hunt game where the treasures are represented
-as QR codes in the physical world, and NFTs in the virtual.
+A real-world treasure hunt game where the treasures are represented as
+QR codes in the physical world, and NFTs in the virtual.
 
 **[The Captain's Ascent][contract-game]**.
-A game of smart contract programming,
-for people to learn smart contract programming in Rust.
+A game of smart contract programming, for people to learn smart
+contract programming in Rust.
 
 **[The Big Announcement][tba]**.
-This is a tiny dapp built on the Ethereum testnet.
-It is my first blockchain programming project.
+This is a tiny dapp built on the Ethereum testnet.  It is my first
+blockchain programming project.
 
 #### [Rust in Blockchain][rib] | Creator & Editor | 2019.06 - Now
 
-I created Rust in Blockchain as a monthly newsletter
-and a community for
-Rust and blockchain developers.
-I write most of the blog posts and curate each newsletter.
-[RiB is One Year Old!][rib-oneyear] is an overview of
-this project.
+I created Rust in Blockchain as a monthly newsletter and a community
+for Rust and blockchain developers.  I write most of the blog posts
+and curate each newsletter. 
+[RiB is One Year Old!][rib-oneyear] is an overview of this project.
 
 #### [Nervos Network][nervos] | Developer Relations | 2018.07 - 2020.03
 
@@ -119,6 +120,7 @@ including an office management system for a telecom company,
 and analytics for law enforcement.
 
 
+[realtps]: https://realtps.net
 [tt]: https://treasuretree.org
 [contract-game]: https://github.com/brson/contract-game
 [tba]: https://github.com/Aimeedeer/bigannouncement
