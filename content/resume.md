@@ -9,8 +9,8 @@ Aimee Zhu | aimeez@pm.me | https://impl.dev
 
 
 I build blockchain projects in Rust and I have been running [Rust in
-Blockchain][rib] since 2019. For years earlier, I build developer
-communities globally for the software and people I love.
+Blockchain][rib] since 2019. Previously, I built developer
+communities for the software and people I love.
 
 
 ## Skills

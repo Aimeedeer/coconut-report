@@ -6,20 +6,23 @@ title: About Me
 ---
 
 I’m Aimee Zhu.
-I write Rust programs and run [Rust in Blockchain (rib.rs)][rib].
+I used to build developer communities and am currently writing Rust programs.
+I run [Rust in Blockchain (rib.rs)][rib] for fun.
 
-Check [my resume](/resume) for detailed works.
+Check [my resume](/resume) for detailed information.
 
 [rib]: https://rustinblockchain.org
 
 ### Favorite Stuff
 
-I use terminal Emacs for almost everything on my laptop,
-including programming and writing. 
+Emacs is my life-saving tool. I use Terminal Emacs every day, for
+programming and writing.
 
-I love having hand drip Kenya coffee every morning.
-Belgian beer and single malt Scotch used to be my favorite alcohol
-and I am into pilsner lately.
+I am obsessed with flavorful drinks. My favorite drinks so far:
+- Medium roasted Kenya coffee
+- Belgian beer and pilsner
+- Single malt Scotch
+- Cabernet Sauvignon is my first choice for red
 
 [Cocoverse](https://cocoverse.com) is the adventure space
 where my partner and I record our shared experiences.
