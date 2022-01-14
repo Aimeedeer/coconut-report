@@ -7,7 +7,7 @@ title: About Me
 
 I’m Aimee Zhu.
 I used to build developer communities and am currently writing Rust programs.
-I run [Rust in Blockchain (rib.rs)][rib] for fun.
+Besides, I run [Rust in Blockchain (rib.rs)][rib] for fun.
 
 Check [my resume](/resume) for detailed information.
 
@@ -15,8 +15,7 @@ Check [my resume](/resume) for detailed information.
 
 ### Favorite Stuff
 
-Emacs is my life-saving tool. I use Terminal Emacs every day, for
-programming and writing.
+I use Terminal Emacs for programming and writing.
 
 I am obsessed with flavorful drinks. My favorite drinks so far:
 - Medium roasted Kenya coffee
