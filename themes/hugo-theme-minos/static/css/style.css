@@ -78,7 +78,7 @@ td {
     body {
         line-height: 1;
         color: var(--darkstyle);
-        background: #fff;
+        background: var(--white);
     }
 }
 ol,
@@ -125,7 +125,7 @@ body,
     height: 100%;
 }
 body {
-    background: #fff;
+    background: var(--white);
 
     font: var(--fontfamily);
     -webkit-text-size-adjust: 100%;
@@ -809,7 +809,7 @@ a.article-title:hover,
     display: inline-block;
 }
 #page-nav .current {
-    color: #fff;
+    color: var(--white);
     border-radius: 18px;
     background-color: var(--purplestyle);
 }
@@ -834,7 +834,7 @@ a.article-title:hover,
     font-size: 14px;
     padding: 15px 0;
     overflow: auto;
-    color: #fff;
+    color: var(--white);
     line-height: 22.4px;
 }
 /*.article-entry pre {
