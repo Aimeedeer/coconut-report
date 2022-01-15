@@ -15,16 +15,18 @@ Check [my resume](/resume) for detailed information.
 
 ### Favorite Stuff
 
-I use Terminal Emacs for programming and writing.
+I use terminal Emacs for programming and writing.
+
+My partner and I travel around, and we keep an adventure blog [Cocoverse].
 
 I am obsessed with flavorful drinks. My favorite drinks so far:
 - Medium roasted Kenya coffee
+- Earl Grey tea
 - Belgian beer and pilsner
 - Single malt Scotch
-- Cabernet Sauvignon is my first choice for red
+- Cabernet Sauvignon
 
-[Cocoverse](https://cocoverse.com) is the adventure space
-where my partner and I record our shared experiences.
+[Cocoverse]: https://cocoverse.com
 
 ### Contact
 
