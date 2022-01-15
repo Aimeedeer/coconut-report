@@ -1,10 +1,9 @@
 :root {
-    /* old purple color: #8a4baf; #76319F;*/
     --purplestyle: #A0A; 
     --darkstyle: #333;
-
+    --darkbackground: #0c0c0c;
+    --white: #fff;
     --fontfamily: 16px Georgia,times new roman, times, serif;
-    /*--fontfamily:  16px 'Merriweather','Georgia',serif;*/
     --code-font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
 }
 
@@ -75,10 +74,12 @@ td {
     font-size: 100%;
     vertical-align: baseline;
 }
-body {
-    line-height: 1;
-    color: var(--darkstyle);
-    background: #fff;
+@media (prefers-color-scheme: light) {
+    body {
+        line-height: 1;
+        color: var(--darkstyle);
+        background: #fff;
+    }
 }
 ol,
 ul {
@@ -631,7 +632,6 @@ a.article-title:hover,
 }
 .article-nav-link-wrap {
     text-decoration: none;
-    text-shadow: 0 1px #fff;
     color: #939393;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

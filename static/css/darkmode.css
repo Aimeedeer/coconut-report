@@ -1,20 +1,41 @@
-.day   { background: #eee; color: black; }
-.night { background: #333; color: white; }
-
 @media (prefers-color-scheme: dark) {
-  .day.dark-scheme   { background:  #333; color: white; }
-  .night.dark-scheme { background: black; color:  #ddd; }
+    body {
+        background: var(--darkbackground);
+        color: var(--white);
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    a,
+    p,
+    ul,
+    li,
+    .article-meta a,
+    a.article-title,
+    .article-entry a,
+    .article-more-link a,
+    #comments a,
+    .archive-year-wrap a,
+    .archive-category-wrap a,
+    .archive-tag-wrap a,
+    .archive-article-title,
+    #page-nav a,
+    #footer a,
+    .article-entry .gist .gist-file .gist-meta a,
+    .layout-wrap-inner .category-list a,
+    .tag-cloud a,
+    .article-entry pre,
+    a.main-nav-link,
+    .article-nav-link-wrap,
+    .article-entry code {
+        color: var(--white);
+    }
+    .article-entry code {
+        background: var(--darkbackground);
+    }
 }
 
-@media (prefers-color-scheme: light) {
-  .day.light-scheme   { background: white; color:  #555; }
-  .night.light-scheme { background:  #eee; color: black; }
-}
-
-.day, .night {
-  display: inline-block;
-  padding: 1em;
-  width: 7em;
-  height: 2em;
-  vertical-align: middle;
-}
