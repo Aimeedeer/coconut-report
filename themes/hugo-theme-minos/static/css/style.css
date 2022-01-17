@@ -1,8 +1,9 @@
 :root {
     --purplestyle: #A0A; 
     --darkstyle: #333;
-    --darkbackground: #0c0c0c;
+    --dark-bg: #161923;
     --white: #fff;
+    --white-for-dark-bg: #c5c5c5;
     --fontfamily: 16px Georgia,times new roman, times, serif;
     --code-font-family: "Source Code Pro", Consolas, "Ubuntu Mono", Menlo, "DejaVu Sans Mono", monospace, monospace !important;
 }

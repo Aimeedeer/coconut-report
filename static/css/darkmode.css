@@ -1,7 +1,7 @@
 @media (prefers-color-scheme: dark) {
     body {
-        background: var(--darkbackground);
-        color: var(--white);
+        background: var(--dark-bg);
+        color: var(--white-for-dark-bg);
     }
     
     h1,
@@ -32,10 +32,10 @@
     a.main-nav-link,
     .article-nav-link-wrap,
     .article-entry code {
-        color: var(--white);
+        color: var(--white-for-dark-bg);
     }
     .article-entry code {
-        background: var(--darkbackground);
+        background: var(--dark-bg);
     }
 }
 
