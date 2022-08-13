@@ -7,11 +7,10 @@ title: About Me
 
 I’m Aimee Zhu.
 
-I used to build developer communities and am currently writing Rust programs.
-Besides, I run [Rust in Blockchain (rib.rs)][rib] for fun.
+I write Rust programs and run [Rust in Blockchain (rib.rs)][rib] newsletter.
 Check [my resume](/resume) for details.
 
-My partner and I travel around, and we keep an adventure blog [Cocoverse].
+My partner and I maintain an adventure blog [Cocoverse].
 
 Contact: aimeez@pm.me
 
