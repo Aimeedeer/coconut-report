@@ -8,7 +8,12 @@ HUGO_VERSION = "0.71.1"
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.71.1"
 
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
 [[headers]]
-   for = "/*"
-   [headers.values]
-      Access-Control-Allow-Origin = "*"
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
