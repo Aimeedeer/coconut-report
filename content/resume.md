@@ -24,6 +24,9 @@ communities for the software and people I love.
 
 #### Projects | Programmer | 2020.04 - Now
 
+**[wasm-opt-rs][wasmopt]**.
+Rust bindings for Binaryen's wasm-opt.
+
 **[RealTPS][realtps]**
 measures the current number of transactions per second
 committed by various blockchains.
@@ -120,6 +123,7 @@ including an office management system for a telecom company,
 and analytics for law enforcement.
 
 
+[wasmopt]: https://github.com/brson/wasm-opt-rs
 [realtps]: https://realtps.net
 [tt]: https://treasuretree.org
 [contract-game]: https://github.com/brson/contract-game

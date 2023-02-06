@@ -6,16 +6,14 @@ title: About Me
 ---
 
 I’m Aimee Zhu.
-
 I write Rust programs and run [Rust in Blockchain (rib.rs)][rib] newsletter.
 Check [my resume](/resume) for details.
 
-My partner and I maintain an adventure blog [Cocoverse].
+Email: aimeez AT pm.me
 
-Contact: aimeez@pm.me
+Nostr: npub1hh7fklzdgkujg7qv3vvayvc499d3w8f78k8ugzv8y4gx85m3dt4suvjkkt
 
 [rib]: https://rustinblockchain.org
-[Cocoverse]: https://cocoverse.com
 
 
 PGP Key: https://impl.dev/keys/aimeez.asc
