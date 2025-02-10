@@ -7,7 +7,6 @@ title: Resume
 
 Aimee Zhu | aimeez@pm.me | https://impl.dev
 
-
 I build blockchain projects in Rust and I have been running [Rust in
 Blockchain][rib] since 2019. Previously, I built developer
 communities for the software and people I love.
@@ -43,7 +42,7 @@ contract programming in Rust.
 This is a tiny dapp built on the Ethereum testnet.  It is my first
 blockchain programming project.
 
-#### [Rust in Blockchain][rib] | Creator & Editor | 2019.06 - Now
+#### [Rust in Blockchain][rib] | Creator & Editor | 2019.06 - 2024.05
 
 I created Rust in Blockchain as a monthly newsletter and a community
 for Rust and blockchain developers.  I write most of the blog posts
