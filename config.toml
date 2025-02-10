@@ -3,7 +3,7 @@ title = "Aimee Zhu's Blog"
 theme = "hugo-theme-minos"
 publishDir = "public"
 
-googleAnalytics = "UA-134203640-1"
+googleAnalytics = "G-YSTRVKC8BN"
 
 paginate = 8
 pygmentsUseClasses = true
