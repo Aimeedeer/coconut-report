@@ -11,8 +11,6 @@ Check [my resume](/resume) for details.
 
 Email: aimeez AT pm.me
 
-Nostr: npub1hh7fklzdgkujg7qv3vvayvc499d3w8f78k8ugzv8y4gx85m3dt4suvjkkt
-
 [rib]: https://rustinblockchain.org
 
 
